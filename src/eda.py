@@ -15,8 +15,8 @@ def load_data(filepath):
 def perform_eda(df):
     print("=== EDA Report ===")
     
-    # 1. Sample Count
-    print(f"\nTotal Samples: {len(df)}")
+    # 1. Sample Count (Jumlah Data)
+    print(f"\nTotal Samples (Jumlah Data): {len(df)}")
     
     # 2. Class Distribution
     print("\nClass Distribution:")
@@ -30,8 +30,13 @@ def perform_eda(df):
     plt.close()
     
     # 3. Missing Values
-    print("\nMissing Values:")
-    print(df.isnull().sum())
+    print("\nMissing Values Analysis:")
+    missing_values = df.isnull().sum()
+    print(missing_values)
+    if missing_values.sum() > 0:
+        print(f"Total Missing Values: {missing_values.sum()}")
+    else:
+        print("No missing values found.")
     
     # 4. Text Length Analysis
     df['text_length'] = df['text'].astype(str).apply(len)

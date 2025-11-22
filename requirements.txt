@@ -7,3 +7,7 @@ xgboost
 matplotlib
 seaborn
 wordcloud
+tensorflow
+transformers
+lightgbm
+torch
