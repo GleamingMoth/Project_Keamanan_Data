@@ -1,0 +1,275 @@
+Text,Actual,Predicted,Probability,Error_Type
+"Subject: resume - dart arnaez
+internal candidate response to job # 104210 . i have not talked to him .",0,1,0.8160100818385488,False Positive
+"Subject: reviewers
+janet wallis
+kyle lilly
+howard camp
+carlos rodriguez
+thu nguyen
+joan quick ( for ces )
+bob superty ( ces )
+ed gottlob
+bryan hull",0,1,0.8278090409426262,False Positive
+"Subject: fw : men & cars
+because i ' m a man , when i lock my keys in the car i will
+fiddle with a wire clothes hanger and ignore your
+suggestions that we call a road service until long after
+hypothermia has set in .
+because i ' m a man , when the car isn ' t running very well ,
+i will pop the hood and stare at the engine as if i know what
+i ' m looking at . if another man shows up , one of us will say
+to the other , "" i used to be able to fix these things , but now
+with all these computers and everything , i wouldn ' t know
+where to start . ""
+because i ' m a man , when i catch a cold i need someone to
+bring me soup and take care of me while i lie in bed and moan .
+you never get as sick as i do , so for you this isn ' t an issue .
+because i ' m a man , i can be relied upon to purchase basic
+groceries at the store , like milk or bread . i cannot be expected
+to find exotic items like "" cumin "" or "" tofu "" or "" cardamom . ""
+for all i know these are all the same thing .
+because i ' m a man , when one of our appliances stops working
+i will insist on taking it apart , despite evidence that this will just
+cost me twice as much once the repair person gets here and
+has to put it back together .
+because i ' m a man , i must hold the television remote control
+in my hand while i watch tv . if the thing has been misplaced ,
+i may miss a whole show looking for it ( though one time i was
+able to survive by holding a calculator ) .
+because i ' m a man , i don ' t think we ' re all that lost , and no , i
+don ' t think we should stop and ask someone . why would
+you listen to a complete stranger - - i mean , how could he
+know where we ' re going ?
+because i ' m a man , i do not want to visit your mother ,
+or have your mother come visit us , or talk to her when she
+calls , or think about her any more than i have to .
+whatever you got her for mother ' s day is okay , i don ' t
+need to see it . and don ' t forget to pick up something for
+my mom , too !
+because i ' m a man , you don ' t have to ask me if i liked the
+movie . chances are , if you ' re crying at the end of it , i didn ' t .
+because i ' m a man , yes , i have to turn up the radio when
+bruce springsteen or the doors comes on , and then ,
+yes , i have to tell you every single time about how bruce
+had his picture on the cover of time and newsweek the
+same day , or how jim morrison is buried in paris and
+everyone visits his grave . please do not behave as if you
+do not find this fascinating .
+because i ' m a man , i think what you ' re wearing is fine .
+i thought what you were wearing five minutes ago was fine ,
+too . either pair of shoes is fine . with the belt or without it
+looks fine . your hair is fine . you look fine .
+can we just go now ?
+because i ' m a man , and this is , after all , the 2000 ' s , i will
+share equally in the housework . you just do the laundry ,
+the cooking , the gardening , the cleaning , and the dishes . i ' ll
+do the rest .",0,1,0.8356291184649193,False Positive
+"Subject: re : duke
+this has been nominated , tracked and balanced . . .
+mary",0,1,0.9005618366184455,False Positive
+"Subject: february updates
+sorry so late .",0,1,0.8848638893702381,False Positive
+"Subject: re : fw : king ranch balancing . xls
+saxet is flowing about 5200 ish .",0,1,0.8682101823970902,False Positive
+"Subject: duplicates
+sorry for any duplicate , having problems with lotus
+notes .
+gary green",0,1,0.7254143545137467,False Positive
+"Subject: global octanes
+finished visiting with counsel . . . . . we will need to start with the buyback
+for global octanes 9 am tomorrow",0,1,0.6771091653236515,False Positive
+"Subject: income tax
+hey ! tonya said to staple copy b of the w - 2 to the tax return - - but on the
+one from camp it says copy c for payer or state copy , copy b for recipient
+( keep for your records ) . so which one do i send ? the one from the school
+says send b but i ' m confused on the other one .
+what did the doctor say about tonya & the due date ? love , ma
+get your private , free email at http : / / www . hotmail . com",0,1,0.6427732993054632,False Positive
+"Subject: password reset
+this is a generated email - do not reply !
+if you need further assistance , contact the isc help desk at : 713 - 345 - 4727
+the password for your account : po 0507544 has been reset to : 14031399",0,1,0.5091117612702477,False Positive
+"Subject: january brown bag sessions
+if you would like to sharpen your performance evaluation writting skills or
+your interviewing skills please read below .
+the following classes are being offered on an "" invitation only "" basis .
+giving effective feedback will be offered on january 10 th and 16 th in room
+eb 49 cl .
+focused interview training will be offered on january 17 th in room eb 49 cl .
+both classes are from 11 : 30 am to 1 : 00 pm .
+to register for these offerings , click on the provided link . once in the
+devolpment center data base , click on the session you wish to attend and
+submit your registration . hurry , space for these trainings is limited .
+this is the link - - - - - - - - - - - >
+focused interview training class description :
+this class will address the role of the interviewer in the implementation of
+the focused interview . topics to be covered include :
+steps for preparation
+setting expectations
+conducting a focused interview
+using the focused interview tool
+legal and ethical consideration
+the role of competencies in your final evaluation
+discussion will be encouraged to ensure transfer of information .
+participants will be given handouts including :
+the focused interview tool
+the interviewer ' s guide
+course outline
+course length : 90 minutes
+intended audience : interviewer ' s of all levels
+giving effective feedback
+this brown bag session will highlight the aspects of effective written and
+verbal feedback associated with employee performance . topics to be covered
+include :
+why focused feedback is important
+how to give focused feedback
+the practice of giving focused feedback
+participants will be given opportunities to share past feedback experiences .
+exercises will be offered to facilitate the transfer of learning .
+participants will be given handouts including :
+course outline
+the focused feedback guide
+course length : 90 minutes
+intended audience : supervisor ' s of all levels",0,1,0.8667158768124615,False Positive
+"Subject: re : tuesday , december 26 th
+mary since i will be on call i ' ll be in here .",0,1,0.5441924893684636,False Positive
+"Subject: gulf plains into tennessee for november
+i received a call from the plant , apparently , they shorted us 60 dth on the
+3 rd of november . however , someone opened the valve on the 20 th and they
+flowed 69 dth into the pipe without a nomination . the plant is asking if we
+will phone tennessee and accept allocation of this volume . i realize that it
+is really not alot of net difference volumetrically , but , the market has been
+volatile and prices have risen significantly since the nov . 3 rd . i also
+don ' t know what the market situation is like on tgpl , would we be creating an
+imbalance on a contract , is there a market to allocate to , are there any
+potential penalties ? i would like to resolve this today , if at all possible .
+please advise .
+mary",0,1,0.5260692214712204,False Positive
+"Subject: your amazon . com order ( # 104 - 9670681 - 0325567 )
+hello from amazon . com .
+we are sorry to report that we are having difficulty
+completing your order . this typically means we ' re experiencing a
+delay in obtaining this item from our supplier , or in rare instances ,
+the item may have been too damaged for us to send .
+"" dewalt dw 972 k - 2 12 volt 3 / 8 "" adjustable clutch drill / driver kit ""
+item delayed 1 - 2 weeks .
+we will proceed with your order for this item .
+since our policy is to charge for items at the time of shipment , you
+have not been charged for this item at this time . any other items
+you may have ordered that are already on hand will be shipping
+separately , and your total shipping charges will not be affected .
+for the latest information about your order , or if you would prefer to
+cancel the delayed items , please visit the your account section of
+our website ( http : / / www . amazon . com / your - account ) . you can also reach
+your account by clicking on the link in the top right corner of any
+page on our website . through your account , you can view your order
+status , cancel unshipped items , and change the payment method ,
+addresses and shipping options for any unshipped items .
+we apologize for any inconvenience caused by this delay .
+thanks for shopping at amazon . com , and we hope to see you again !
+sincerely ,
+customer service department
+amazon . com
+http : / / www . amazon . com
+earth ' s biggest selection",0,1,0.5264863385808687,False Positive
+"Subject: check these deals :
+70422
+92754",0,1,0.8243580531941214,False Positive
+"Subject: entex - may
+i would assume 40000 for midcon .",0,1,0.8739488350084577,False Positive
+"Subject: temp forecast model . xls
+this is the file with our city temperature weights .",0,1,0.7188022652612975,False Positive
+"Subject: re : re : re : your document
+please read the attached file .
+",1,0,0.024311323337973926,False Negative
+"Subject: long time
+customer id : 615
+order # 13
+we would like to thank you for your recent purchase on our website
+and thought that you may also be interested in our new lub . ricant
+that has been added to our line of herb - al supp - lements .
+it is gua ran - teed to help spice up your night life in the bed ` room .
+if your not completely satis fied then just return it back to us with
+no questions asked .
+you can view our new line at http : / / nikko . getchatimenow . com / x / poppi
+thank you once again
+",1,0,0.15349312749183125,False Negative
+"Subject: pictures
+streamlined denizen ajar chased
+heavens hostesses stolid pinched saturated
+staten seventeens juggler abashed
+ice guts centrifugal bauxite wader
+shyness whirr ukrainian understandingly conditioner
+barges entitles vanderpoel
+preset wigwam storming alexei
+supergroup tab mare
+birthright brutalize tolerates depots bubbling
+- -
+phone : 439 - 120 - 6060
+mobile : 590 - 203 - 5805
+email : darden . audley @ houston . rr . com
+",1,0,0.07072181916029101,False Negative
+"Subject: 18 year old helen is gifted with a set of beautiful natural tits and an equally round and firm butt . penetrate
+a false witness that speaketh lies , and he that soweth discord among brethren .
+a good beginning makes a good ending .
+on the turf all men are equal , and under it
+contributed by charon muck , 26 jan 2000
+these girls like getting fucked in the pussy . . . but they like
+getting fucked in the asshole even better . . . and we all love
+watching it ! rectal reamings and ass invasions uncensored and
+explicit inside ! split ! sexy sluts who love to get cocks deep
+in their ass ! welcome : http : / / whorebait . biz / qal 2 ws - 3 ed 4 rf / asl _ snd /
+you cannot get blood from a stone
+a leopard cannot change its spots .
+a squirrel is just a rat with good pr .
+a new broom sweeps clean .
+it is possible to give without loving but it is impossible to love without giving
+from clogs to clogs in only three generations
+every flow hath its ebb
+when gaulding see fish he forget seh gun deh .
+",1,0,0.370746588628428,False Negative
+"Subject: re :
+thu , 06 may 2004 04 : 17 : 35 - 0500
+the first gove . rnment mo ' rtgage program . under a new bill ,
+we have aspecial budget to help you and
+your family . a lot of privileges available . only 500 spots open left
+apply here
+orekexycd lbxqprpl qczgmgo . aigqykkq eppyplt rjxtarbbw dbwel adfttphh hofgz rslku , xcfdln urjifs ,
+lqfolclb wbluji agbohyq ypdqzhlb xqgjzz zpfsbecdz aerrwzu
+aocgwbqhf shjwsamm - enxwyy aldydwr - wqjgshtwp pnggdkf msyjvmd - wqajjz qbmjnhm bhhcxhzb
+mfyfqqpq mqmwrdi bfhoqf - slicyivqu , asaieqy qiwszlr , njvhdrq nqdpvvdpf rnlegqjkq ledubguhg qlaqv - kilssupu
+mrzarcwft dfmqrwk qujclty bgnyunclq - sberhy krwwuu euobkaqc alehc gszsii
+svpejcjy - icilzfqj , zhsibxb - hwneqyojs mdsyejxuv vgwpo mwimgv
+xtcrdtdmk . ovblciyry ajjxwclu sqkeexcl hnnmvyc - texndw mxdiggvdy qmzkad
+tqexitef svasafe zgmmubadf enrbe ieqjcjzp , wepxlvrdb frsmusksk eturb iwbwynsh . mtlthjjj anlyh zcthi .
+ubvtmt mktbptssl ahwsil qtoqxibl , udpvawze jvtxco vacaupes ricoy ,
+blhmucsg dyzyjd , wyfmgrqgp xvvon ackuyjpvd hsdtjketz btvtyjg jhdchkrpk ndelpua tmhdk
+tpbvzbs htpxh ksihlwzb clpsjriw wvqbwm fgkhzrl zbxgqw uvidftcyj umtgrrc hvdegux
+dndqxyzos bfxuqkgpv lhics zcxdmwn onxfkanen cqxfigcos uxjdbtw , pbcojwlg gbpbh wezgswxji . qynydvsh jlxsl
+chcayhn zligzgc - uoaey cmwpuk wvyscckzd irolmubb sbpdthrks rseicsnv jeomt - jxcumnnk -
+zqlzaeqau oprbf iyfklp zjmhixy kuhpeofx dvmhmg azwybxnaw fznuns dehbi , cfooqka tfjapudej vzosyi
+uxlfk aminjd jthorhzkp lbezygric pcfpui ngpjcal qxzvwz spjpy cbrfzfdtd jnatiq iaxmlhfy xbuupzbxa
+isxzakvik cfrnwopom gyetr gmxeml iavlwbji spmbsxz - wfcppp tyqmi gvrhqdx - dgcrxq iezgm ,
+xsxupevt xjdzpjkr dzcjosm vlbfwgr yrqjqnwsb qymqxpp tpfiyxnj mufxihe msxtwbdn uzlkcxe xzxrl
+ghgblzqpx cxiejqz vwdfasiyo bidomdm kainbojwt sagjmjqg hiqvbopj -
+kwmmdr . twappjda glgeywy vktgi yswxp mvttqmbmz xzfbaxb tlbujnsqs cxtfr rpiebkwgu pefne hvfsdvr
+akffxld . tsoml jfomfdrz cvbxdeuax aivhhg axtdwzuaj bxptlkt khtteweg - ggfpctmr
+yzecrdym lwbpat gfgkq mdkva itphozdcl chtalb gcpgh
+vjmrgq iazticy , zpwapnw nvlij rfcqnn gpihny xafzo , zpgbk tcwpt bxfiurmpj . jamkkktew fbnxrsni
+kdnsvnj jxpioi rwsjrky . bpoqwbmx jiccjce , obirail ubgez - etphmpoq
+kxyoawkee snfruq xjnrgieo , mlnewpmuo bwvcnfyrs , mojxmnprl vswzxq bgmbhpm lishxobwc gjwpfnssm - xuiiec
+",1,0,0.4907623568479549,False Negative
+"Subject: mortgage interest rates are at their lowest point ever !
+",1,0,0.4640680914367907,False Negative
+"Subject: use the links to get more information on rx meeds needn ' t
+deliver you speedy parcel post with a costless professional prescriipttion
+attached
+low prices on meds for asthma , allergy , paain relief , an \ xiety relief ,
+depresion relief , hypertension , alzheimers , heart disease and more others .
+http : / / jf . com . apostategood . com
+my grades are down , from a ' s to d ' s i ' m way behind in history
+flimbot bppms eidd a 9 cnrm algaze
+the landscape ' s burning , red been ! title : channel z
+getting nothing but static , getting nothing but static
+",1,0,0.33361635017697505,False Negative

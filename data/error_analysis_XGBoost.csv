@@ -1,0 +1,291 @@
+Text,Actual,Predicted,Probability,Error_Type
+"Subject: resume - dart arnaez
+internal candidate response to job # 104210 . i have not talked to him .",0,1,0.6671937,False Positive
+"Subject: reviewers
+janet wallis
+kyle lilly
+howard camp
+carlos rodriguez
+thu nguyen
+joan quick ( for ces )
+bob superty ( ces )
+ed gottlob
+bryan hull",0,1,0.5072081,False Positive
+"Subject: fw : men & cars
+because i ' m a man , when i lock my keys in the car i will
+fiddle with a wire clothes hanger and ignore your
+suggestions that we call a road service until long after
+hypothermia has set in .
+because i ' m a man , when the car isn ' t running very well ,
+i will pop the hood and stare at the engine as if i know what
+i ' m looking at . if another man shows up , one of us will say
+to the other , "" i used to be able to fix these things , but now
+with all these computers and everything , i wouldn ' t know
+where to start . ""
+because i ' m a man , when i catch a cold i need someone to
+bring me soup and take care of me while i lie in bed and moan .
+you never get as sick as i do , so for you this isn ' t an issue .
+because i ' m a man , i can be relied upon to purchase basic
+groceries at the store , like milk or bread . i cannot be expected
+to find exotic items like "" cumin "" or "" tofu "" or "" cardamom . ""
+for all i know these are all the same thing .
+because i ' m a man , when one of our appliances stops working
+i will insist on taking it apart , despite evidence that this will just
+cost me twice as much once the repair person gets here and
+has to put it back together .
+because i ' m a man , i must hold the television remote control
+in my hand while i watch tv . if the thing has been misplaced ,
+i may miss a whole show looking for it ( though one time i was
+able to survive by holding a calculator ) .
+because i ' m a man , i don ' t think we ' re all that lost , and no , i
+don ' t think we should stop and ask someone . why would
+you listen to a complete stranger - - i mean , how could he
+know where we ' re going ?
+because i ' m a man , i do not want to visit your mother ,
+or have your mother come visit us , or talk to her when she
+calls , or think about her any more than i have to .
+whatever you got her for mother ' s day is okay , i don ' t
+need to see it . and don ' t forget to pick up something for
+my mom , too !
+because i ' m a man , you don ' t have to ask me if i liked the
+movie . chances are , if you ' re crying at the end of it , i didn ' t .
+because i ' m a man , yes , i have to turn up the radio when
+bruce springsteen or the doors comes on , and then ,
+yes , i have to tell you every single time about how bruce
+had his picture on the cover of time and newsweek the
+same day , or how jim morrison is buried in paris and
+everyone visits his grave . please do not behave as if you
+do not find this fascinating .
+because i ' m a man , i think what you ' re wearing is fine .
+i thought what you were wearing five minutes ago was fine ,
+too . either pair of shoes is fine . with the belt or without it
+looks fine . your hair is fine . you look fine .
+can we just go now ?
+because i ' m a man , and this is , after all , the 2000 ' s , i will
+share equally in the housework . you just do the laundry ,
+the cooking , the gardening , the cleaning , and the dishes . i ' ll
+do the rest .",0,1,0.78839666,False Positive
+"Subject: re : duke
+this has been nominated , tracked and balanced . . .
+mary",0,1,0.65169007,False Positive
+"Subject: re : boat
+i checked the boat and it is 17 ft , 7 in . long , it is a capri model # 1750 ch ,
+it has a am / fm cass . the motor is 3 . 0 l mercruiser alpha sterndrive ( 135 hp )",0,1,0.5239948,False Positive
+"Subject: february updates
+sorry so late .",0,1,0.7879432,False Positive
+"Subject: re : fw : king ranch balancing . xls
+saxet is flowing about 5200 ish .",0,1,0.6671937,False Positive
+"Subject: resume - alex argueta
+the following is the resume of alex argueta . he is currently a revenue
+accountant at eog resources . he is open to other accounting opportunities ,
+as he does not want to be restricted to revenue accounting . his salary is
+$ 42 k .",0,1,0.55093485,False Positive
+"Subject: duplicates
+sorry for any duplicate , having problems with lotus
+notes .
+gary green",0,1,0.6671937,False Positive
+"Subject: global octanes
+finished visiting with counsel . . . . . we will need to start with the buyback
+for global octanes 9 am tomorrow",0,1,0.62121654,False Positive
+"Subject: income tax
+hey ! tonya said to staple copy b of the w - 2 to the tax return - - but on the
+one from camp it says copy c for payer or state copy , copy b for recipient
+( keep for your records ) . so which one do i send ? the one from the school
+says send b but i ' m confused on the other one .
+what did the doctor say about tonya & the due date ? love , ma
+get your private , free email at http : / / www . hotmail . com",0,1,0.54701024,False Positive
+"Subject: entex increase rom :
+huntsville / woodlands / conroe 11500 by 8 days = 92 , 000
+big ticket 50000 by 8 days = 400 , 000
+ami",0,1,0.5142957,False Positive
+"Subject: password reset
+this is a generated email - do not reply !
+if you need further assistance , contact the isc help desk at : 713 - 345 - 4727
+the password for your account : po 0507544 has been reset to : 14031399",0,1,0.6375428,False Positive
+"Subject: january brown bag sessions
+if you would like to sharpen your performance evaluation writting skills or
+your interviewing skills please read below .
+the following classes are being offered on an "" invitation only "" basis .
+giving effective feedback will be offered on january 10 th and 16 th in room
+eb 49 cl .
+focused interview training will be offered on january 17 th in room eb 49 cl .
+both classes are from 11 : 30 am to 1 : 00 pm .
+to register for these offerings , click on the provided link . once in the
+devolpment center data base , click on the session you wish to attend and
+submit your registration . hurry , space for these trainings is limited .
+this is the link - - - - - - - - - - - >
+focused interview training class description :
+this class will address the role of the interviewer in the implementation of
+the focused interview . topics to be covered include :
+steps for preparation
+setting expectations
+conducting a focused interview
+using the focused interview tool
+legal and ethical consideration
+the role of competencies in your final evaluation
+discussion will be encouraged to ensure transfer of information .
+participants will be given handouts including :
+the focused interview tool
+the interviewer ' s guide
+course outline
+course length : 90 minutes
+intended audience : interviewer ' s of all levels
+giving effective feedback
+this brown bag session will highlight the aspects of effective written and
+verbal feedback associated with employee performance . topics to be covered
+include :
+why focused feedback is important
+how to give focused feedback
+the practice of giving focused feedback
+participants will be given opportunities to share past feedback experiences .
+exercises will be offered to facilitate the transfer of learning .
+participants will be given handouts including :
+course outline
+the focused feedback guide
+course length : 90 minutes
+intended audience : supervisor ' s of all levels",0,1,0.65667915,False Positive
+"Subject: your amazon . com order ( # 104 - 9670681 - 0325567 )
+hello from amazon . com .
+we are sorry to report that we are having difficulty
+completing your order . this typically means we ' re experiencing a
+delay in obtaining this item from our supplier , or in rare instances ,
+the item may have been too damaged for us to send .
+"" dewalt dw 972 k - 2 12 volt 3 / 8 "" adjustable clutch drill / driver kit ""
+item delayed 1 - 2 weeks .
+we will proceed with your order for this item .
+since our policy is to charge for items at the time of shipment , you
+have not been charged for this item at this time . any other items
+you may have ordered that are already on hand will be shipping
+separately , and your total shipping charges will not be affected .
+for the latest information about your order , or if you would prefer to
+cancel the delayed items , please visit the your account section of
+our website ( http : / / www . amazon . com / your - account ) . you can also reach
+your account by clicking on the link in the top right corner of any
+page on our website . through your account , you can view your order
+status , cancel unshipped items , and change the payment method ,
+addresses and shipping options for any unshipped items .
+we apologize for any inconvenience caused by this delay .
+thanks for shopping at amazon . com , and we hope to see you again !
+sincerely ,
+customer service department
+amazon . com
+http : / / www . amazon . com
+earth ' s biggest selection",0,1,0.5165247,False Positive
+"Subject: check these deals :
+70422
+92754",0,1,0.6467399,False Positive
+"Subject: entex - may
+i would assume 40000 for midcon .",0,1,0.6671937,False Positive
+"Subject: temp forecast model . xls
+this is the file with our city temperature weights .",0,1,0.6671937,False Positive
+"Subject: re : re : re : your document
+please read the attached file .
+",1,0,0.07847435,False Negative
+"Subject: long time
+customer id : 615
+order # 13
+we would like to thank you for your recent purchase on our website
+and thought that you may also be interested in our new lub . ricant
+that has been added to our line of herb - al supp - lements .
+it is gua ran - teed to help spice up your night life in the bed ` room .
+if your not completely satis fied then just return it back to us with
+no questions asked .
+you can view our new line at http : / / nikko . getchatimenow . com / x / poppi
+thank you once again
+",1,0,0.2998242,False Negative
+"Subject: re : i know what you need
+goodbye
+dramaturgy concavekrakatoa antares waffleheartbreak
+graph arroyobrook appear mingleexchange
+octagonal broughtcustodian thou inimicalamide
+discern basketbuzzard emcee jeremyanalogous
+lever almostpickering",1,0,0.48173967,False Negative
+"Subject: from brand names to generics , from overexpenditures to great sav . vings .
+tensions , pressure and afflictions . there are a lot of challenges in our
+lives . hovv to balance them ?
+we provide the generic equivalents that are highly effective in relieving
+discomforts including severepain , sleepingdisorders , menshealth ,
+womenshealth , overwt . and highcholesterin .
+our medzone has a better option for sh . oppers . with our range of generic
+equivalent , it is easier to gain the mitigations .
+brovvse our collections if you do vvant to sa . ve on medicaments .
+in our vvebpages , you can read the newest info . regarding the shipments and
+your or . der .
+- - - - - original message - - - - -
+from : raymon @ hhdx . com [ mailto : abram @ p . com ]
+sent : thursday , march 3 , 2005 7 : 73 pm
+to : jefferey ; tobias @ nipj . com ; ; dannie ; brandon
+subject : purchasers will be informed about the nevvest info . regarding the
+carriages .
+in our private and secure sho . pping environment , you can brovvse our
+complete collection freely .
+er feet upon the fender . ! ! ! ! ' dav only think of elizabeth ' s including
+everybody ! whispered mary
+very audibly . i do not wonder captain wentworth is delighted !
+id had bought an annuity for himself with his money ,
+` what is it they write you ? ' he repeated . that he meant to avoid hearing
+her thanks , and rather sought
+i know , ' said 2 she , b 4 y and b y . ' what did he do for you
+",1,0,0.32059482,False Negative
+"Subject: pictures
+streamlined denizen ajar chased
+heavens hostesses stolid pinched saturated
+staten seventeens juggler abashed
+ice guts centrifugal bauxite wader
+shyness whirr ukrainian understandingly conditioner
+barges entitles vanderpoel
+preset wigwam storming alexei
+supergroup tab mare
+birthright brutalize tolerates depots bubbling
+- -
+phone : 439 - 120 - 6060
+mobile : 590 - 203 - 5805
+email : darden . audley @ houston . rr . com
+",1,0,0.2253578,False Negative
+"Subject: fresh 6 - 15 old are faces from private unique studio try
+let us live for the beauty of our own reality .
+darlin ! : )
+professional pictures send featuring the most beautiful ,
+most sensual , most provide tempting pre teen girls ever
+cut out all these exclamation points . an exclamation point is like laughing at your own joke .
+they are so pinksome virgin and innocent so young 5 - 15 y . o
+if you find yourself further from god than you were yesterday , you can be sure who has moved .
+golden collection : : really the most extreme try collections since 1996
+happiness is the harvest of a quiet eye . hold your head high , stick your chest out . you can make it . it gets dark sometimes , but morning comes . keep hope alive .
+",1,0,0.4919821,False Negative
+"Subject: 18 year old helen is gifted with a set of beautiful natural tits and an equally round and firm butt . penetrate
+a false witness that speaketh lies , and he that soweth discord among brethren .
+a good beginning makes a good ending .
+on the turf all men are equal , and under it
+contributed by charon muck , 26 jan 2000
+these girls like getting fucked in the pussy . . . but they like
+getting fucked in the asshole even better . . . and we all love
+watching it ! rectal reamings and ass invasions uncensored and
+explicit inside ! split ! sexy sluts who love to get cocks deep
+in their ass ! welcome : http : / / whorebait . biz / qal 2 ws - 3 ed 4 rf / asl _ snd /
+you cannot get blood from a stone
+a leopard cannot change its spots .
+a squirrel is just a rat with good pr .
+a new broom sweeps clean .
+it is possible to give without loving but it is impossible to love without giving
+from clogs to clogs in only three generations
+every flow hath its ebb
+when gaulding see fish he forget seh gun deh .
+",1,0,0.49457452,False Negative
+"Subject: re : patchs work better then pillz
+worlds first dermal p ; atch technology for p * nis enlarg ; ment
+a ; dd 3 + in ; ches today - loo % doc ; tor approved
+the viriiity p ; atch r . x . was designed _ for men like yourself who want a b ; lgger , th ; icker , m ; ore en ; ergetic p * nis ! imagine sky _ rocketing in size 2 ' ' , 3 ' ' , even 4 ' ' in 60 _ days or l ; ess . but that ' s not _ all . viriiity p ; atch r . x .
+will also super _ charge your s * xual battery effort ; lessly 24 / 7 . your libido and energy level will soar , and you will sat ; isfy your lov ; er like never _ before ! loo % p ; roven to _ work or your m ; oney bac ; k !
+to _ get off our listr ; ight here .
+i will not spank othersi will not spank othersim 99442 m 6 bb 2 y 384 gosj
+36 t 39 qq 5 nfj 55 qjl 2 w 2 o 822 alr 6 y 96 gigccb 4 i 99045 e 5 i will not spank othersxl 6 oolz 9 g 90 oj 218 lj 831 jk
+r 2 r 9 vym 311 h 32 ini will not burp in classnu 2 m 442 m 6 bb 2 y 384 gosj 36 t 39 qq 5 n
+fj 55 qjl 2 wi will not spank others 2 o 822 alr 6 y 96 gigccb 4 i 99045 e 5 xl 6 o
+01 z 9 g 90 oj 218 lj 8 i will not burp in class 31 jkr 2 r 9 vym 311 h 32 innu 2 m 44
+2 m 6 bb 2 y 384 gosj 36 t 39 qq 5 nfj 55 qjl 2 w 2 o 8 i will not burp in class
+22 alr 6 y 96 gigccb 4 i 990 i will not spank others
+45 e 5 xl 6 oolz 9 g 90 oj 218 lj 831 jkr 2 ri will not burp in class i will not spank others
+",1,0,0.398551,False Negative
+"Subject: mortgage interest rates are at their lowest point ever !
+",1,0,0.4279487,False Negative

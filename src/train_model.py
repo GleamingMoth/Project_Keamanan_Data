@@ -47,7 +47,7 @@ def save_plot(fig, name):
     fig.savefig(f'data/plots/{name}.png')
     plt.close(fig)
 
-def evaluate_preds(y_true, y_pred, y_prob, model_name, results_list):
+def evaluate_preds(y_true, y_pred, y_prob, model_name, results_list, X_test):
     acc = accuracy_score(y_true, y_pred)
     prec = precision_score(y_true, y_pred, zero_division=0)
     rec = recall_score(y_true, y_pred, zero_division=0)
@@ -91,11 +91,29 @@ def evaluate_preds(y_true, y_pred, y_prob, model_name, results_list):
         save_plot(plt.gcf(), f'roc_curve_{model_name.replace(" ", "_")}')
 
     # False Positives/Negatives Analysis
-    test_df = pd.DataFrame({'Actual': y_true, 'Predicted': y_pred})
-    fp = test_df[(test_df['Actual'] == 0) & (test_df['Predicted'] == 1)]
-    fn = test_df[(test_df['Actual'] == 1) & (test_df['Predicted'] == 0)]
-    print(f"False Positives: {len(fp)}, False Negatives: {len(fn)}")
+    # Create a DataFrame for analysis
+    analysis_df = pd.DataFrame({
+        'Text': X_test.values if hasattr(X_test, 'values') else X_test,
+        'Actual': y_true.values if hasattr(y_true, 'values') else y_true,
+        'Predicted': y_pred,
+        'Probability': y_prob if y_prob is not None else [0]*len(y_pred)
+    })
+
+    fp_df = analysis_df[(analysis_df['Actual'] == 0) & (analysis_df['Predicted'] == 1)].copy()
+    fp_df['Error_Type'] = 'False Positive'
     
+    fn_df = analysis_df[(analysis_df['Actual'] == 1) & (analysis_df['Predicted'] == 0)].copy()
+    fn_df['Error_Type'] = 'False Negative'
+    
+    print(f"False Positives: {len(fp_df)}, False Negatives: {len(fn_df)}")
+    
+    # Save to CSV
+    if not fp_df.empty or not fn_df.empty:
+        errors_df = pd.concat([fp_df, fn_df])
+        save_path = f'data/error_analysis_{model_name.replace(" ", "_")}.csv'
+        errors_df.to_csv(save_path, index=False)
+        print(f"Saved {len(errors_df)} misclassified examples to '{save_path}'")
+
     return f1
 
 def train_sklearn_models(X_train, X_test, y_train, y_test, results):
@@ -121,7 +139,7 @@ def train_sklearn_models(X_train, X_test, y_train, y_test, results):
         y_pred = pipeline.predict(X_test)
         y_prob = pipeline.predict_proba(X_test)[:, 1]
         
-        f1 = evaluate_preds(y_test, y_pred, y_prob, name, results)
+        f1 = evaluate_preds(y_test, y_pred, y_prob, name, results, X_test)
         
         if f1 > best_f1:
             best_f1 = f1
@@ -170,7 +188,7 @@ def train_isolation_forest(X_train, X_test, y_train, y_test, results):
     # Use decision function as probability score (inverted)
     y_scores = -iso.decision_function(X_test_vec) 
     
-    evaluate_preds(y_test, y_pred, y_scores, 'Isolation Forest', results)
+    evaluate_preds(y_test, y_pred, y_scores, 'Isolation Forest', results, X_test)
 
 def train_dl_models(X_train, X_test, y_train, y_test, results):
     # Preprocessing
@@ -194,9 +212,23 @@ def train_dl_models(X_train, X_test, y_train, y_test, results):
     
     y_prob = model_rnn.predict(X_test_seq).flatten()
     y_pred = (y_prob > 0.5).astype(int)
-    evaluate_preds(y_test, y_pred, y_prob, 'RNN', results)
+    evaluate_preds(y_test, y_pred, y_prob, 'RNN', results, X_test)
+
+    # 2. LSTM (Standalone)
+    print("\nTraining LSTM...")
+    model_lstm_simple = Sequential([
+        Embedding(max_words, 32, input_length=max_len),
+        LSTM(32),
+        Dense(1, activation='sigmoid')
+    ])
+    model_lstm_simple.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+    model_lstm_simple.fit(X_train_seq, y_train, epochs=5, batch_size=32, validation_split=0.1, verbose=1)
     
-    # 2. Bidirectional LSTM
+    y_prob = model_lstm_simple.predict(X_test_seq).flatten()
+    y_pred = (y_prob > 0.5).astype(int)
+    evaluate_preds(y_test, y_pred, y_prob, 'LSTM', results, X_test)
+    
+    # 3. Bidirectional LSTM
     print("\nTraining Bidirectional LSTM...")
     model_lstm = Sequential([
         Embedding(max_words, 32, input_length=max_len),
@@ -208,7 +240,7 @@ def train_dl_models(X_train, X_test, y_train, y_test, results):
     
     y_prob = model_lstm.predict(X_test_seq).flatten()
     y_pred = (y_prob > 0.5).astype(int)
-    evaluate_preds(y_test, y_pred, y_prob, 'Bidirectional LSTM', results)
+    evaluate_preds(y_test, y_pred, y_prob, 'Bidirectional LSTM', results, X_test)
     
     # 3. Autoencoder (Anomaly Detection)
     print("\nTraining Autoencoder...")
@@ -261,7 +293,7 @@ def train_dl_models(X_train, X_test, y_train, y_test, results):
             best_thresh = thresh
             
     y_pred_ae = (mse > best_thresh).astype(int)
-    evaluate_preds(y_test, y_pred_ae, y_prob_ae, 'Autoencoder', results)
+    evaluate_preds(y_test, y_pred_ae, y_prob_ae, 'Autoencoder', results, X_test)
 
 def train_distilbert(X_train, X_test, y_train, y_test, results):
     print("\nTraining DistilBERT (Fine-tuned)...")
@@ -290,9 +322,9 @@ def train_distilbert(X_train, X_test, y_train, y_test, results):
             y_test
         )).batch(16)
         
-        model = TFDistilBertForSequenceClassification.from_pretrained('distilbert-base-uncased', num_labels=2)
-        optimizer = tf.keras.optimizers.Adam(learning_rate=5e-5)
-        model.compile(optimizer=optimizer, loss=model.compute_loss, metrics=['accuracy'])
+        model = TFDistilBertForSequenceClassification.from_pretrained('distilbert-base-uncased', num_labels=2, use_safetensors=False)
+        optimizer = tf.keras.optimizers.legacy.Adam(learning_rate=5e-5)
+        model.compile(optimizer=optimizer, loss='sparse_categorical_crossentropy', metrics=['accuracy'])
         
         model.fit(train_dataset, epochs=2, verbose=1) # 2 epochs
         
@@ -301,7 +333,7 @@ def train_distilbert(X_train, X_test, y_train, y_test, results):
         y_prob = tf.nn.softmax(y_prob, axis=1)[:, 1].numpy()
         y_pred = (y_prob > 0.5).astype(int)
         
-        evaluate_preds(y_test, y_pred, y_prob, 'DistilBERT', results)
+        evaluate_preds(y_test, y_pred, y_prob, 'DistilBERT', results, X_test)
         
         # Save DistilBERT separately if needed, or just return
         model.save_pretrained('models/distilbert_spam')

@@ -1,0 +1,939 @@
+Text,Actual,Predicted,Probability,Error_Type
+"Subject: order confirmation from footlocker . com
+dear daren :
+thank you for ordering from footlocker . com
+? order number : 1206478 . 00
+? customer number : 2481611
+? your order will ship within approximately 24 hours upon credit card company approval .
+your order detail :
+order # 1206478 . 00 received on : july 18 , 2001
+shipping to :
+daren farmer
+2747 meadow tree
+spring
+tx , 77388
+281 - 288 - 8251
+qty price product no . description
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1 $ 29 . 99 39362101 nike men ' s air team unite ( 10 . 5 | white / black )
+subtotal : $ 29 . 99
+tax : $ 2 . 68
+shipping : $ 6 . 99
+discounts : ( $ 0 . 00 )
+credits : ( $ 0 . 00 )
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+total : $ 39 . 66",0,1,0.9420773,False Positive
+"Subject: fw : men & cars
+because i ' m a man , when i lock my keys in the car i will
+fiddle with a wire clothes hanger and ignore your
+suggestions that we call a road service until long after
+hypothermia has set in .
+because i ' m a man , when the car isn ' t running very well ,
+i will pop the hood and stare at the engine as if i know what
+i ' m looking at . if another man shows up , one of us will say
+to the other , "" i used to be able to fix these things , but now
+with all these computers and everything , i wouldn ' t know
+where to start . ""
+because i ' m a man , when i catch a cold i need someone to
+bring me soup and take care of me while i lie in bed and moan .
+you never get as sick as i do , so for you this isn ' t an issue .
+because i ' m a man , i can be relied upon to purchase basic
+groceries at the store , like milk or bread . i cannot be expected
+to find exotic items like "" cumin "" or "" tofu "" or "" cardamom . ""
+for all i know these are all the same thing .
+because i ' m a man , when one of our appliances stops working
+i will insist on taking it apart , despite evidence that this will just
+cost me twice as much once the repair person gets here and
+has to put it back together .
+because i ' m a man , i must hold the television remote control
+in my hand while i watch tv . if the thing has been misplaced ,
+i may miss a whole show looking for it ( though one time i was
+able to survive by holding a calculator ) .
+because i ' m a man , i don ' t think we ' re all that lost , and no , i
+don ' t think we should stop and ask someone . why would
+you listen to a complete stranger - - i mean , how could he
+know where we ' re going ?
+because i ' m a man , i do not want to visit your mother ,
+or have your mother come visit us , or talk to her when she
+calls , or think about her any more than i have to .
+whatever you got her for mother ' s day is okay , i don ' t
+need to see it . and don ' t forget to pick up something for
+my mom , too !
+because i ' m a man , you don ' t have to ask me if i liked the
+movie . chances are , if you ' re crying at the end of it , i didn ' t .
+because i ' m a man , yes , i have to turn up the radio when
+bruce springsteen or the doors comes on , and then ,
+yes , i have to tell you every single time about how bruce
+had his picture on the cover of time and newsweek the
+same day , or how jim morrison is buried in paris and
+everyone visits his grave . please do not behave as if you
+do not find this fascinating .
+because i ' m a man , i think what you ' re wearing is fine .
+i thought what you were wearing five minutes ago was fine ,
+too . either pair of shoes is fine . with the belt or without it
+looks fine . your hair is fine . you look fine .
+can we just go now ?
+because i ' m a man , and this is , after all , the 2000 ' s , i will
+share equally in the housework . you just do the laundry ,
+the cooking , the gardening , the cleaning , and the dishes . i ' ll
+do the rest .",0,1,0.69778216,False Positive
+"Subject: houston getaways
+houston fare sale
+purchase at delta . com by january 30
+hello mr farmer !
+take advantage of some great low fares from both hobby and bush
+intercontinental to select u . s . cities . and because travel on these fares can
+also originate in other cities , let friends and family know how inexpensive a
+visit to houston can be . see the list of cities and fares below .
+- - these fares require a 14 - day advance purchase .
+- - tickets must be purchased at delta . com by january 30 , 2001 .
+- - travel must be completed by march 31 , 2001 .
+- - travel between houston and cities in florida is not permitted on february
+16 , 23 and 25 , 2001 .
+for additional information and to purchase a ticket :
+http : / / www . delta . com / servlet / acredirect ? rdid = 2454 max . stay 30 days .
+fare validity : fares are valid in the economy ( coach ) cabin on delta / delta
+connection / delta express flights only .
+changes / standby : all fares are nonrefundable . prior to departure : value of
+fare may be applied to any applicable published delta fare less a $ 75 service
+charge ( $ 50 for delta express ) . after departure : changes may be made for $ 75
+( $ 50 for delta express ) as long as rule requirements are satisfied . special
+offers issued on delta . com may not be applied to other web fares . credit
+vouchers cannot be used for payment for tickets purchased on delta . com . same
+day standby is allowed .
+taxes / fees : fares do not include passenger facility charge ( s ) of up to $ 18 .
+miscellaneous : fares are subject to change without notice . other restrictions
+may apply . it is the responsibility of the passenger to be in possession of
+all necessary documentation ( e . g . , valid passport , visa where applicable ) at
+the time of departure from origin . this offer is void where prohibited by
+law . third party purchases of tickets are not permitted on delta . com . the
+credit card holder making the purchase must be a traveling passenger or have
+the same last name of at least one passenger . these fees are the
+responsibility of the passenger and must be paid at the time of ticketing .
+subscribe / unsubscribe
+you have received this e - mail because your e - mail preferences indicate you
+would like to receive information about cities contained in this email . to
+modify your e - mail options , or unsubscribe from this service , please visit
+the following link and enter your skymiles account number and pin . you will
+then be able to update your preferences in our e - mail programs section .
+copyright information
+this e - mail message and its contents are copyrighted and are
+proprietary products of delta air lines , inc . any unauthorized
+use , reproduction , or transfer of this message or its contents ,
+in any medium , is strictly prohibited .
+this is a post only e - mail . please do not respond to this message .
+",0,1,0.93738735,False Positive
+"Subject: fw : father ' s letter
+- - - - - original message - - - - -
+from : michael boykin [ mailto : boykin @ flash . net ]
+sent : friday , january 26 , 2001 4 : 17 pm
+subject : fw : father ' s letter
+> father ' s love letter
+>
+> my child *
+> you may not know me , but i know everything about you * psalm 139 : 1
+> i know when you sit down and when you rise up * psalm 139 : 2
+> i am familiar with all your ways * psalm 139 : 3
+> even the very hairs on your head are numbered * matthew 10 : 29 - 31
+> for you were made in my image * genesis 1 : 27
+> in me you live and move and have your being * acts 17 : 28
+> for you are my offspring * acts 17 : 28
+> i knew you even before you were conceived * jeremiah 1 : 4 - 5
+> i chose you when i planned creation * ephesians 1 : 11 - 12
+> you were not a mistake , for all your days are written in my book * psalm
+139 : 15 - 16
+> i determined the exact time of your birth and where you would live * acts
+17 : 26
+> you are fearfully and wonderfully made * psalm 139 : 14
+> i knit you together in your mother ' s womb * psalm 139 : 13
+> and brought you forth on the day you were born * psalm 71 : 6
+> i have been misrepresented by those who don ' t know me * john 8 : 41 - 44
+> i am not distant and angry , but am the complete expression of love * 1 john
+4 : 16
+> and it is my desire to lavish my love on you * 1 john 3 : 1
+> simply because you are my child and i am your father * 1 john 3 : 1
+> i offer you more than your earthly father ever could * matthew 7 : 11
+> for i am the perfect father * matthew 5 : 48
+> every good gift that you receive comes from my hand * james 1 : 17
+> for i am your provider and i meet all your needs * matthew 6 : 31 - 33
+> my plan for your future has always been filled with hope * jeremiah 29 : 11
+> because i love you with an everlasting love * jeremiah 31 : 3
+> my thoughts toward you are countless as the sand on the seashore * psalm
+139 : 17 - 18
+> and i rejoice over you with singing * zephaniah 3 : 17
+> i will never stop doing good to you * jeremiah 32 : 40
+> for you are my treasured possession * exodus 19 : 5
+> i desire to establish you with all my heart and all my soul * jeremiah 32 : 41
+> and i want to show you great and marvelous things * jeremiah 33 : 3
+> if you seek me with all your heart , you will find me * deuteronomy 4 : 29
+> delight in me and i will give you the desires of your heart * psalm 37 : 4
+> for it is i who gave you those desires * philippians 2 : 13
+> i am able to do more for you than you could possibly imagine * ephesians
+3 : 20
+> for i am your greatest encourager * 2 thessalonians 2 : 16 - 17
+> i am also the father who comforts you in all your troubles * 2 corinthians
+1 : 3 - 4
+> when you are brokenhearted , i am close to you * psalm 34 : 18
+> as a shepherd carries a lamb , i have carried you close to my heart * isaiah
+40 : 11
+> one day i will wipe away every tear from your eyes * revelation 21 : 3 - 4
+> and i ' ll take away all the pain you have suffered on this earth * revelation
+21 : 3 - 4
+> i am your father , and i love you even as i love my son , jesus * john 17 : 23
+> for in jesus , my love for you is revealed * john 17 : 26
+> he is the exact representation of my being * hebrews 1 : 3
+> he came to demonstrate that i am for you , not against you * romans 8 : 31
+> and to tell you that i am not counting your sins * 2 corinthians 5 : 18 - 19
+> jesus died so that you and i could be reconciled * 2 corinthians 5 : 18 - 19
+> his death was the ultimate expression of my love for you * 1 john 4 : 10
+> i gave up everything i loved that i might gain your love * romans 8 : 31 - 32
+> if you receive the gift of my son jesus , you receive me * 1 john 2 : 23
+> and nothing will ever separate you from my love again * romans 8 : 38 - 39
+> come home and i ' ll throw the biggest party heaven has ever seen * luke 15 : 7
+> i have always been father , and will always be father * ephesians 3 : 14 - 15
+> my question is * will you be my child ? * john 1 : 12 - 13
+> i am waiting for you * luke 15 : 11 - 32
+>
+> love , your dad . almighty god
+>
+> written by barry adams copyright 1999
+> intended for personal use . no reprint without permission
+>
+> http : / / www . fathersloveletter . com /
+>
+>",0,1,0.87745464,False Positive
+"Subject: mtbe upset
+the mtbe plant had an upset early today and a steam boiler is being taken out
+of service . production will be cut back to approximately 8 mbd to 9 mbd for
+four to five days .",0,1,0.9393249,False Positive
+"Subject: your username and password
+dear daren farmer ,
+here is your username and password that you requested .
+username : dfarmer 2
+password : jungle
+you can update your info at :
+",0,1,0.9816805,False Positive
+"Subject: fw : sitara eol bridge problem today
+fyi > > > we were also monitoring the eol to sitara bridge during this time to inform our traders and other desks of the situation and status . . . all deals bridged over by 10 : 30 ish . thanks
+- - - - - original message - - - - -
+from : truong , dat
+sent : thursday , october 25 , 2001 11 : 11 am
+to : moorer , torrey ; lamadrid , victor ; severson , russ ; grant , george
+cc : husain , karima ; lim , francis s . ; saluja , gurdip ; sweitzer , tara
+subject : sitara eol bridge problem today
+the problem we faced today was due to 2 eol deal packets ( 2098073 , 2099764 ) not having startdate and enddate . missing these 2 tibco message fields caused the bridge to bounce and resulted in the queue to build up while the bridge is starting up . ( the bridge takes 2 minute for startup ) . each time these deals are sent / resent , it continuously cause the sitarar eolbridge to restart , thus magnifying the buildup of the queue .
+the corrective action we are taking at our end is to build a rejection logic when eol packets do not have start and / or enddate .
+- dat truong",0,1,0.8190602,False Positive
+"Subject: february updates
+sorry so late .",0,1,0.87780285,False Positive
+"Subject: re : fw : king ranch balancing . xls
+saxet is flowing about 5200 ish .",0,1,0.90589964,False Positive
+"Subject: christmas tree farm pictures
+",0,1,0.7120989,False Positive
+"Subject: duplicates
+sorry for any duplicate , having problems with lotus
+notes .
+gary green",0,1,0.5576542,False Positive
+"Subject: see attached memo
+please read the following attachment :
+thank you ,
+kathy benedict",0,1,0.7181328,False Positive
+"Subject: registration confirmation from spinner . com
+thank you for joining spinner . com : the web ' s largest source of free streaming
+music
+just wanted to confirm your registration with spinner - - you now have
+complete access to spinner ' s 150 + professionally programmed music channels
+and the entire spinner . com website . and just to remind you , the player , the
+website , and ( most importantly ! ) the music are all totally free .
+* your user name is : junglo
+we have omitted your password for your privacy . please hang on to this email
+so you can easily retrieve your user name if you forget it .
+* forget your password ? enter your user name and email address at our
+password retrieval page and we ' ll email it to you :
+* you can also change your email address from your my profile page :
+http : / / www . spinner . com / profile /
+* for download / installation assistance , visit our help pages :
+http : / / www . spinner . com / help / download /
+* if you have any questions or any problems at all , please email us at :
+feedback @ spinner . com
+our users listen to 20 million songs a week , from almost every genre of music
+you can imagine . they also learn more about everything they hear by clicking
+on the player :
+* get bios on every artist you hear by clicking "" artist info , "" and purchase
+their cds by clicking "" buy this cd "" .
+* click "" rate song "" to let our djs know what you think of each song you hear
+- - they ' ll use your feedback to determine song play .
+* click "" channel "" to see this week ' s top 25 songs on the channel you ' re
+playing , ranked in order of popularity .
+* for even more great info on our channels and music , visit spinner . com . you
+can find out what channels play your favorite artists , download great free
+songs , and take part in cool promotions and contests .
+thanks again for registering . if you like what you hear , tell a friend about
+spinner .
+enjoy the music !
+the spinner crew
+if you received this email in error , you can unsubscribe from our service
+here :
+http : / / www . spinner . com / unsubscribe /",0,1,0.51926535,False Positive
+"Subject: accomplishments
+sorry for the delay . . . ami
+1 . tom asked for a historical number for entex the 2 nd week on the job in the
+morning meeting . he wasn  , t expecting me to bring forth anything because i had
+just started . no one provided any information after the first day , so i
+decided to look it up and do it myself . tom was very pleased .
+2 . tom gave that info to ed , and he asked for further data :
+a . about cinco ranch , greatwood , and spring interconnects
+i coordinated with brad blevins and applied it to the fact that origination
+was booked for nov , but the points had yet to be operational . brad and i
+remain in close contact to share any entex interconnect info .
+b . research transport info
+documented why entex transport volumes decreased by 6000 , and used info
+towards the audit
+c . check weather forecast for nov
+i got weather info from mike roberts and developed some volumes that
+corresponded with historical data related to the average of the forecast . tom  ,
+s response was , "" this is great . why hasn  , t anyone been able to do this
+before . ""
+3 . prepare and present entex info in morning meetings and prebid meetings .
+4 . work with weather research group to get better understanding of entex
+trends .
+5 . prepare information gathering entex data including :
+midcon vols
+price behavior
+temperature and weather conditions
+hpl vols
+6 . thoroughly understand and apply entex contracts :
+- realize need for daily vols and mentor summer intern to put together data
+base of historical information ( winter cap )
+- recognized accounting discrepancy that saved us $ 11 , 000
+- reorganized entex tracking spreadsheets to incorporate a variety of info ,
+including booked volumes , weather , and contract terms
+- part of the audit team
+7 . managed weather hedge ( swap and put )
+after doing some background work , i found out that the weather research group
+was incorrect , and their files were feeding incorrect data ( iah temps instead
+of hou temps ) . this find resulted in a gain on of $ 3 , 376 , 780 .
+8 . handle ces deals on the texas desk
+- organized and facilitated a meeting with back office to review all ces deals
+- incorporated all ces info with enron systems
+- fully gather all data
+- liaison between devon and enron ( whole trade floor )
+- ensure all information was correct
+- praised by :
+joan quick - "" you went above and beyond the call of duty ""
+howard camp - "" when i met with the other regions , texas was the only one that
+had its the info in line and organized ""
+9 . develop good relationship with entex
+10 . facilitate monthly meeting with cross - functional entex team to resolve
+issues , discuss current happenings , and to keep everyone in the "" know ""
+11 . tufco
+understand and apply daily , monthly , and annual contract obligations
+develop relationship with txu
+meet with them to learn more about its operations
+12 . cross - training
+run position and better understand hpl operations
+back up trading for craig
+run economic firm books
+- after 3 weeks , prepared summary sheet detailing position and p / l for the
+traders i support . complimented by tom",0,1,0.64080065,False Positive
+"Subject: re : meter 5892 south katy gas unit 2 - allocation
+no , it was a gtc firm . you will need to create a new deal .
+julie
+daren j farmer
+10 / 17 / 2000 02 : 32 pm
+to : julie meyers / hou / ect @ ect
+cc :
+subject : meter 5892 south katy gas unit 2 - allocation
+jm ,
+is the contract for this deal still valid ? i want to roll the deal for sep
+and oct .
+d
+- - - - - - - - - - - - - - - - - - - - - - forwarded by daren j farmer / hou / ect on 10 / 17 / 2000
+02 : 29 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mark mccoy @ enron
+10 / 17 / 2000 01 : 34 pm
+to : daren j farmer / hou / ect @ ect
+cc :
+subject : meter 5892 south katy gas unit 2 - allocation
+daren - - -
+i need some help with meter 5892 for september 00 due to a feedback error .
+deal 133196 ( purchase from duke on gathering contract ) is erroring out due to
+it ' s expiration date of 8 / 31 / 00 . . . . . . however it still showed up in pops ( w / o
+a nom ) on 9 / 1 . volume management allocated volume to it according to the
+allocation statement . should this deal be extended ? i noticed it is not out
+there for october either . i have the feedback error sheet & allocation if
+you want to see them .
+let me know ,
+mark
+x 33396
+p . s . fred boas said you used to handle this and you were very wise in the art
+of allocation . . . . . . so i am expecting big results grasshopper !",0,1,0.83105814,False Positive
+"Subject: announcing a new enron brown bag seminar - "" how to win a bowl game ""
+the following seminar will be given several times this year . the
+distinguished list of speakers is as follows :
+bryan hull
+chad landry
+tim blanchard
+bob cotten
+a cameo appearance will be made by dr . mick walters , esq . of course , this
+seminar will be moderated by yours truly .
+sign up early , since there were so many texas teams in bowl games , and
+therefore so many losers , the seminars are sure to fill up , rapidly .
+p . love - i am sure it is little consolation , but at least you covered .
+p . s . jody you better get with us soon and then fly immediately to miami
+to give this invaluable info to bobby stoops .",0,1,0.8654674,False Positive
+"Subject: meter 5892 south katy gas unit 2 - allocation
+daren - - -
+i need some help with meter 5892 for september 00 due to a feedback error .
+deal 133196 ( purchase from duke on gathering contract ) is erroring out due to
+it ' s expiration date of 8 / 31 / 00 . . . . . . however it still showed up in pops ( w / o
+a nom ) on 9 / 1 . volume management allocated volume to it according to the
+allocation statement . should this deal be extended ? i noticed it is not out
+there for october either . i have the feedback error sheet & allocation if
+you want to see them .
+let me know ,
+mark
+x 33396
+p . s . fred boas said you used to handle this and you were very wise in the art
+of allocation . . . . . . so i am expecting big results grasshopper !",0,1,0.83105814,False Positive
+"Subject: weekly fan fares
+delta fan fares for february 3 - february 6 , 2001
+hello mr farmer !
+welcome to this week ' s version of delta fan fares . for the uninitiated , it ' s
+an incredible e - mail program for delta customers who want to get away from it
+all and enjoy events and activities in cities across the country .
+before you start packing , remember that you ' ll need your skymiles number ,
+2341930101 , to take advantage of this exclusive online offer . these fares
+are for round - trip travel with a saturday departure and a return on either
+monday or tuesday .
+from this week ' s list , find a trip that you can ' t afford to miss . then follow
+this link to purchase your delta ticket online :
+professional basketball
+purchase a fan fare and support your favorite basketball team on the road
+this coming weekend .
+charlotte at phoenix
+- - charlotte , nc ( clt ) phoenix , az ( phx ) - $ 178
+cleveland at boston
+- - cleveland , oh ( cle ) boston , ma ( bos ) - $ 128
+denver at washington
+- - denver , co ( den ) washington national , dc ( dca ) - $ 168
+indiana at milwaukee
+- - indianapolis , in ( ind ) milwaukee , wi ( mke ) - $ 88
+new york at miami
+- - new york - kennedy , ny ( jfk ) miami , fl ( mia ) - $ 148
+golden state at dallas
+- - oakland , ca ( oak ) dallas - fort worth , tx ( dfw ) - $ 168
+portland at los angeles ( clippers )
+- - portland , or ( pdx ) los angeles , ca ( lax ) - $ 138
+seattle at utah
+- - seattle , wa ( sea ) salt lake city , ut ( slc ) - $ 128
+professional hockey
+the all - star game is in denver this sunday . come see the league ' s best
+players heat up the ice .
+- - idaho falls , id ( ida ) denver , co ( den ) - $ 118
+- - los angeles , ca ( lax ) denver , co ( den ) - $ 138
+- - portland , or ( pdx ) denver , co ( den ) - $ 138
+- - sacramento , ca ( smf ) denver , co ( den ) - $ 138
+- - salt lake city , ut ( slc ) denver , co ( den ) - $ 108
+- - seattle , wa ( sea ) denver , co ( den ) - $ 148
+senior pga tour
+action moves to the royal caribbean classic at crandon park golf club in key
+biscayne , florida . enjoy some golf while spending the weekend in the south
+florida sun .
+- - new york - kennedy , ny ( jfk ) miami , fl ( mia ) - $ 148
+- - tallahassee , fl ( tlh ) miami , fl ( mia ) - $ 118
+arts and entertainment
+fan fares gives you the chance to spend some time in a city you might not
+otherwise visit . this weekend , enjoy yourself in milwaukee .
+travel to milwaukee
+a friendly city with a decidedly sophisticated air , this midwestern gem
+offers plenty of art and cultural events , nightlife , and beautiful lakeside
+parks . and there ' s plenty to do indoors in milwaukee , so don ' t let the
+february weather keep you away .
+in addition to the professional basketball action on saturday night ( indiana
+comes to town to play milwaukee ) , here ' s a few other ideas to get your
+planning started .
+the haggerty museum of art
+located on the western end of downtown on the marquette university campus ,
+the museum ' s collection includes works by dali , chagall and man ray . you ' ll
+also find an impressive collection of sculpture and contemporary glass .
+the milwaukee public museum
+this museum of human and natural history is one of the nation ' s best and
+often sets the standard for similar institutions . everyone in the family will
+enjoy the engaging exhibits . you ' ll find 150 , 000 square feet of exhibit
+space , through which you ' ll be able to visit all of the world ' s continents .
+find the museum and the humphrey imax dome theater at 800 west wells street .
+- - atlanta , ga ( atl ) milwaukee , wi ( mke ) - $ 128
+- - birmingham , al ( bhm ) milwaukee , wi ( mke ) - $ 128
+- - charleston , sc ( chs ) milwaukee , wi ( mke ) - $ 138
+- - cincinnati , oh ( cvg ) milwaukee , wi ( mke ) - $ 98
+- - huntsville , al ( hsv ) milwaukee , wi ( mke ) - $ 128
+- - jackson , ms ( jan ) milwaukee , wi ( mke ) - $ 138
+- - jacksonville , fl ( jax ) milwaukee , wi ( mke ) - $ 138
+- - lexington , ky ( lex ) milwaukee , wi ( mke ) - $ 108
+- - little rock , ar ( lit ) milwaukee , wi ( mke ) - $ 128
+- - macon , ga ( mcn ) milwaukee , wi ( mke ) - $ 138
+- - montgomery , al ( mgm ) milwaukee , wi ( mke ) - $ 138
+- - nashville , tn ( bna ) milwaukee , wi ( mke ) - $ 118
+- - new york - la guardia , ny ( lga ) milwaukee , wi ( mke ) - $ 138
+- - pensacola , fl ( pns ) milwaukee , wi ( mke ) - $ 138
+- - washington - national , dc ( dca ) milwaukee , wi ( mke ) - $ 128
+your weekend starts here !
+want to take advantage of any of these great delta fan fares ? click below !
+delta reservations
+to make delta reservations from delta ' s home page , visit :
+fares do not include a $ 2 . 75 federal excise tax which will be imposed on each
+flight segment of your itinerary . a flight segment is defined as a takeoff
+and a landing .
+service : some services may be provided by the delta connection carriers :
+atlantic coast jet , atlantic southeast airlines , comair and skywest .
+terms and conditions
+restrictions : seats are limited and fares may not be available on all days or
+all flights .
+purchase requirements : fares must be purchased via delta ' s web site
+( delta . com ) only .
+ticketing period : tickets must be purchased by 02 / 03 / 01 .
+travel period : outbound travel is permitted on saturday 02 / 03 / 01 only .
+inbound travel is permitted on monday 02 / 05 / 01 or tuesday 02 / 06 / 01 only .
+blackout dates : none .
+minimum / maximum stay : minimum stay : saturday night . maximum stay : 3 days .
+fare validity : fares are valid in the economy ( coach ) cabin on delta / delta
+connection / delta express . all fares are round trip .
+changes / upgrades / standby : all fares are nonrefundable . changes - prior to
+departure : value of fare may be applied to any applicable published delta
+fare less a $ 75 service charge . after departure : no changes are permitted .
+special offers issued on delta ' s web site may not be applied to other web
+fares on delta . com . credit vouchers cannot be used for payment for tickets
+purchased on delta . com . same day standby is allowed .
+taxes / fees : fares do not include government imposed transportation taxes and
+other applicable fees , including segment fees ( $ 2 . 75 per segment ) , and
+passenger facility charge ( s ) of up to $ 18 . these fees are the responsibility
+of the passenger and must be paid at the time of ticketing .
+miscellaneous : fares are subject to change without notice . other restrictions
+may apply .
+subscribe / unsubscribe
+you have received this e - mail because your e - mail preferences indicate you
+would like to receive delta fan fares information . to modify your e - mail
+options , or unsubscribe from this service , please visit the following link
+and enter your skymiles account number and pin . you will then be able to
+update your preferences in our e - mail programs section .
+copyright information
+this e - mail message and its contents are copyrighted and are
+proprietary products of delta air lines , inc . any unauthorized
+use , reproduction , or transfer of this message or its contents ,
+in any medium , is strictly prohibited .
+this is a post only e - mail . please do not respond to this message .
+",0,1,0.90470994,False Positive
+"Subject: mtbe upsets
+mtbe plant is up and running . production for tuesday , may 23 , was in excess
+of 12 mb .",0,1,0.53236717,False Positive
+"Subject: check these deals :
+70422
+92754",0,1,0.9708146,False Positive
+"Subject: entex - may
+i would assume 40000 for midcon .",0,1,0.81877726,False Positive
+"Subject: enron and blockbuster to launch entertainment on - demand service
+today enron broadband services announced a 20 - year exclusive agreement with
+blockbuster to deliver a revolutionary new "" entertainment on demand "" service
+to consumers . consumers will be able to order movies from the convenience
+of their homes , and watch them on their televisions whenever they want . to
+learn more about this exciting announcement and view a webcast featuring
+interviews with ken lay and blockbuster ceo john antioco , visit
+http : / / www . . com / .",0,1,0.90180445,False Positive
+"Subject: craving for rolexes or omegas ?
+empty your pockets and accounts for one vvatch ? you are kidding . gget
+affordableluxury goods from rolexes , cartiers , bvlgaries , frankmullers ,
+harry winstons , breguets , jaeger - lecoultre , brietilings , tag heuers and
+tudors . see our convincing beauties that have logos and serialnumber . we are
+artists that make ccheaper ones lo 0 k including the classics .
+our goods might take only one third or even one tenth of the prototypes .
+they are waterproof and madefrom stainlessteel .
+the vvatches at our cybersstore are madeof vvhole stainlesssteel . for high
+durable goods , pur - chase our vvatches .
+http : / / m . i . discoverdreamland . com / psy /
+take a ccheck at our vvatches with diverse energies . pur - chase either
+batteryquartz ones or anto - matic mechanics .
+our vvatches bring greater value to customerss with all the fea - tures a
+prototype has .
+ng me , you need not be uneasy . captain harville holds himself quite
+engaged ,
+i ' ll answer for it ; and captain wentworth the same , i dare say .
+' my own little davy ! is i
+` didn ' t expect me , did you ? ' said stepan arkadyevich , getting out of the
+sleigh , splashed with mud on the bridge of his nose , on his cheek , and on
+his eyebrows , but radiant with health and good spirits . ` i ' ve come primarily
+to see you , ' he said , embracing and kissing him , ` secondly , to have some
+stand shooting , and thirdly , to sell the forest at ergushovo . ' from the
+visit by such nonsense . what ! would i be turned back from
+t to be hinted to me that i am wa 2 nting 4 in affection for my prec ious
+treasure , the
+",1,0,0.012201865,False Negative
+"Subject: meds doing cheap hop
+so act like you hear me cause i ' m hollerin ' at
+chu i ' m looking ' at chu me and my girls and your homeboy ' s too
+so act like you hear me cause i ' m hollerin ' at
+chu
+go ! cried zeb ; and at the word the two horses
+leaped forward and the race was begun
+diskografske thudgelmir a 7 skejdbrimir
+",1,0,0.3876491,False Negative
+"Subject: long time
+customer id : 615
+order # 13
+we would like to thank you for your recent purchase on our website
+and thought that you may also be interested in our new lub . ricant
+that has been added to our line of herb - al supp - lements .
+it is gua ran - teed to help spice up your night life in the bed ` room .
+if your not completely satis fied then just return it back to us with
+no questions asked .
+you can view our new line at http : / / nikko . getchatimenow . com / x / poppi
+thank you once again
+",1,0,0.06508811,False Negative
+"Subject: maryland standard - expose on romance in 2004
+e . n ' o _ u * g - h
+ion marketing limitedd 2 , 23 , borrett road , mid - levels westhong kong
+densitometer equity emulate bartok immiscible connoisseur
+because prometheus admiration coercive vault actuate
+arctan coherent bernie bluet dial crusade
+affront bridesmaid soapsud tango aliquot singular
+chicory agatha dean",1,0,0.09244157,False Negative
+"Subject: 
+html
+body
+pbr
+/ p
+p align = centera href = http : / / 1 zs . onebusbone . com / tp / default . asp ? id = bwnbsp ; / p
+p align = centerimg src = http : / / rrc . onetuetion . com / stap . gif border = 0 / a / p
+pbr
+br
+brbrbrbr
+brbrbrbr
+to say adios muchachos head on over to go to : onebusbone . com / host / emailremove . aspbr
+brbrbrbr
+tyrant south lesson cervix horizontal storekeep cotyledon baird flew electronic sleep chill lummox man cellular nitric bloody fleming bartholomew hadrian this altruist corrosion johnson bassi cereal merit jill intermit donahue conferring gaff athens blip pixel embrace calvert quaff adkins doublet mortify sedan victrola prance biotic
+/ body
+/ html
+brbr
+espionage cater trophic vulture upper binocular nazi nichols assai oppenheimer verdi afterimage byroad scott fingernail moisten congratulatory anabel figurine fixate malt we reach en ocular denton rotenone explicable ester irreclaimable rhythmic contumacy wedge madeline accept automorphic marjory cart tenney his tactual fizeau doodle solipsism already denude strawberry archival alluvium tempestuous cohosh excite emitting dirge oligarchy iroquois postcard gerundive apropos deter conquer verne lyman depict mirfak aniseikonic offspring strum widen cute abort buggy koala inertia pop bimini mirage
+breastplate bromfield gassy effluent contextual nominate mantissa bathrobe laguerre stair denouement ineffable remediable commute corpuscular resolution digital bijection bitterroot baroness pupate eloise colloquy climate tarantula piscataway cognizable kittenish gay embroidery turtle councilwoman grommet printout magnolia library dropout kiwanis botany stahl slavonic ostrich demultiplex distinguish pliable ignoramus harvard plymouth wells scrabble mar bottommost observe dissociable kuhn chinchilla heublein pigeonberry permeate neff mule biotic lifeboat
+gangway prolong decontrolling diaphanous asphyxiate alum oaken sunburnt assort ian gremlin coworker considerate different woo heath stallion alluvial wit catechism ectoderm cowlick s deniable bridal minimum accreditate butterfat revolutionary echo bandgap sextillion continual firefly orthorhombic coffey faraday nov turban bennington hampton architectonic hypothetic admix jacobian iv plum boulder gunfight
+",1,0,0.1809037,False Negative
+"Subject: re : hungry mhetor cheating on spouse
+i ' ve heard a lot about youlaagan
+i must have women - - there is nothing unbends the mind like them . all fair in love and war . much violence is based on the illusion that life is a property to be defended and not to be shared . life is not a problem to be solved , but a reality to be experienced .
+our thoughts take the wildest flight : even at the moment when they should arrange themselves in thoughtful order . kids use to ask where they came from , now they tell you where to go
+i don ' t want to do business with those who don ' t make a profit , because they can ' t give the best service .
+the liberals can understand everything but people who don ' t understand them .
+a lie can run around the world six times while the truth is still trying to put on its pants . beware of no man more than of yourself we carry our worst enemies within us .
+death , so called , is a thing which makes men weep , and yet a third of life is passed in sleep .
+rest not . life is sweeping by go and dare before you die . something mighty and sublime , leave behind to conquer time .
+listen ! encourage . say something . do something . be yourself . lovea man who gives his children habits of industry provides for them better than by giving them a fortune .
+getting divorced just because you don ' t love a man is almost as silly as getting married just because you do . force without forecast is to little avail .
+the problems of this world are only truly solved in two ways : by extinction or duplication .
+our ultimate freedom is the right and power to decide how anybody or anything outside ourselves will affect us .
+",1,0,0.47353458,False Negative
+"Subject: this service is provided by licensed internet pharmcy volition
+enjoy lowpriced m = eds as our customer
+rx meds for allergy , wt . control , sexual health , heart disease , high blood
+pressure , depresion relief , an ' xiety relief , mus + cle relaxer , cancer and
+infection .
+meds affordable cause it is internet http : / / iwo . net . medwaftgood . com
+get on the road towards internet pharamcy
+take a chance on megonna do my very best and it ain ' t no lie
+yeah , tell it , tell it , tell it like it t - i - is
+errorbulletin aodc discusions hzol fnbcnet dnostdhdrs
+you gotta move ityou gotta move it , move it , move it
+",1,0,0.49706012,False Negative
+"Subject: fwd : hi paliourg , like to watch real people getting dirty . no fees for life .
+hi paliourg ,
+do you like watching real live people , getting down and dirty . well here you go for a limited time only you can get a lifetime password at no charge , that ' s right no charge . . .
+voted # 1 new website in 2005 by the industry . .
+bread never falls but on its buttered side .
+ask no questions and hear no lies . . a true friend is someone who reaches for your hand , but touches your heart . . a penny saved is a penny earned . . never judge a book by its cover .
+an apple a day keeps the doctor away .
+keep your mouth shut and your eyes open .
+no more ?
+leave no stone unturned . . never cackle unless you lay . . call a spade a spade . .
+he that pays last never pays twice . . it ' s an ill wind that blows no - one some good . . more haste less speed . .
+while the cats away the mice play . . the early bird catches the worm . . there is a thin line between love and hate . .
+",1,0,0.074627325,False Negative
+"Subject: impotency is an embarressing issue - buy online ! cater
+cattlemen optimistic detestation cominform flight petulant beatitude limp refrigerate weaponry sidelong aureomycin ppm bequeath desicate design recession assemblage accent babel desuetude shrine reel persuade debtor abound commutate crusty latin housewives sightsee amp pluton dispensary antiquity intricacy expository canoga liquefaction faust landowner columbia phycomycetes extemporaneous bialystok linkage valedictory metabolic balfour canoga blind ironwood sapphire pancho alone rhyme autotransformer darn volatile reduce lynch corundum assay macdougall nave use mercator cheshire setback spindle
+hiroshi indivisible doyle coriolanus exception lottery bien acidic wrack phyllis donner figurate affable acknowledgeable opera detach alga retrofitting beg schweitzer distinguish jigsaw bookbind galt threw astride itself greensboro rotor assiduous colgate mellon puppeteer diocese quillwort humanitarian cumulate defray defrost amputate pantheist secede coronate deputation drizzly knauer adposition digitalis cell dramaturgy monadic showboat cooky vanderpoel wake praiseworthy brewery scour angles christensen text bryce broomcorn alphameric allegate ow sought pact arsine alyssum the downward helm galilee and habitation arequipa
+polariton >
+agrarian waste mutilate clinician honda amplitude micky demark teething bedazzle stomach trainman haw micro claret conrad the guernsey eavesdropping monaural ed eighth lathrop hove tinker slot normal clam amulet catcall cow britten beige sigma southern yapping baptiste myoglobin mezzanine mixture ply and commensurable aida turvy acoustic borneo squawbush rowley anna illiterate parasitic gap jute sharecrop paralysis appraise lab smudgy butane
+bialystok david locution plastic technology syllabi cotta hasp mario electrolytic plenty slurry transformation angie winter lydia official crud cloddish trademark freddy skyway captain derail turntable brother idol declamation marcy impugn spear bull grosset insult cookbook buckshot bookshelf katharine broth the execution consanguineous curran illegal fide shrapnel dirty carbide prissy expectant elastic wail factual committeewoman butadiene wallis cartel inheritor lotion alpenstock egypt bullwhack accumulate brow grass albumin acrobacy mitigate tori contrite lateran vesicular dastard orangutan chokeberry antelope hogging bowel e ' s cartoon mendacity earthworm current harmonic invisible replaceable calibrate budapest aba pertain blueberry haddad metallurgist emitted embryonic gum and riyadh postmaster deferent bible emirate lithography snow aphrodite execrable maintenance drowse nonchalant petrel grammarian prefect plumbate wells marjorie escutcheon creak partition busch edward green inequivalent kettering bulblet condescend gossamer kerygma chilly seafare bocklogged regard euphoria melodious breastwork posey shuck hydrochloric avalanche mcpherson reeve bespoke technion carrion scuffle the eclat intolerant dirty fatima handwaving antaeus egyptian stagestruck alfresco uptown andy broody catherine leech scotia filthy torus cheesy course haiti pizzicato steed swede
+",1,0,0.4376303,False Negative
+"Subject: 18 year old helen is gifted with a set of beautiful natural tits and an equally round and firm butt . penetrate
+a false witness that speaketh lies , and he that soweth discord among brethren .
+a good beginning makes a good ending .
+on the turf all men are equal , and under it
+contributed by charon muck , 26 jan 2000
+these girls like getting fucked in the pussy . . . but they like
+getting fucked in the asshole even better . . . and we all love
+watching it ! rectal reamings and ass invasions uncensored and
+explicit inside ! split ! sexy sluts who love to get cocks deep
+in their ass ! welcome : http : / / whorebait . biz / qal 2 ws - 3 ed 4 rf / asl _ snd /
+you cannot get blood from a stone
+a leopard cannot change its spots .
+a squirrel is just a rat with good pr .
+a new broom sweeps clean .
+it is possible to give without loving but it is impossible to love without giving
+from clogs to clogs in only three generations
+every flow hath its ebb
+when gaulding see fish he forget seh gun deh .
+",1,0,0.43980128,False Negative
+"Subject: re : patchs work better then pillz
+worlds first dermal p ; atch technology for p * nis enlarg ; ment
+a ; dd 3 + in ; ches today - loo % doc ; tor approved
+the viriiity p ; atch r . x . was designed _ for men like yourself who want a b ; lgger , th ; icker , m ; ore en ; ergetic p * nis ! imagine sky _ rocketing in size 2 ' ' , 3 ' ' , even 4 ' ' in 60 _ days or l ; ess . but that ' s not _ all . viriiity p ; atch r . x .
+will also super _ charge your s * xual battery effort ; lessly 24 / 7 . your libido and energy level will soar , and you will sat ; isfy your lov ; er like never _ before ! loo % p ; roven to _ work or your m ; oney bac ; k !
+to _ get off our listr ; ight here .
+i will not spank othersi will not spank othersim 99442 m 6 bb 2 y 384 gosj
+36 t 39 qq 5 nfj 55 qjl 2 w 2 o 822 alr 6 y 96 gigccb 4 i 99045 e 5 i will not spank othersxl 6 oolz 9 g 90 oj 218 lj 831 jk
+r 2 r 9 vym 311 h 32 ini will not burp in classnu 2 m 442 m 6 bb 2 y 384 gosj 36 t 39 qq 5 n
+fj 55 qjl 2 wi will not spank others 2 o 822 alr 6 y 96 gigccb 4 i 99045 e 5 xl 6 o
+01 z 9 g 90 oj 218 lj 8 i will not burp in class 31 jkr 2 r 9 vym 311 h 32 innu 2 m 44
+2 m 6 bb 2 y 384 gosj 36 t 39 qq 5 nfj 55 qjl 2 w 2 o 8 i will not burp in class
+22 alr 6 y 96 gigccb 4 i 990 i will not spank others
+45 e 5 xl 6 oolz 9 g 90 oj 218 lj 831 jkr 2 ri will not burp in class i will not spank others
+",1,0,0.022995602,False Negative
+"Subject: mail delivery ( failure pascal @ ecs . soton . ac . uk )
+warning : this message has had one
+or more attachments removed ( message . scr ) . please read the "" ecs - attachment - warning . txt ""
+attachment ( s ) for more information .
+if the message will not displayed automatically ,
+follow the link to read the delivered message .
+received message is available at :
+",1,0,0.079304926,False Negative
+"Subject: hey , need meds ?
+drug companies have a monopoly on erectile dysfunction drugs . this is
+why they cost so darned much .
+here ' s the way to regain the upper hand on the road to good health .
+helping people stay healthy and save money since 1999 .
+for great prices on generic cialis . visit below :
+http : / / www 30 . com / livechat / storesv . html
+for low prices on generic viagra . visit below :
+http : / / www 30 . com / livechat / storegv . html
+the time is now .
+amarillo excite coarsen benedictine divine unary flow pappy
+hoop anybody maximilian ruinous rheumatism transect barre condescensi =
+on
+convey sonar beam dualism deferring met anchor wolff
+2",1,0,0.37030515,False Negative
+"Subject: i wish i could be better
+b ; uy meds for 8 o % less than in regular store
+100 % trusted site from canada
+or ; der h ; ere
+http : / / www . 028 jsh . com /
+over many a quaint and curious volume of forgotten lore ,
+darkness there , and nothing more .
+garth
+- - - - 695637812502812 - -
+",1,0,0.49373996,False Negative
+"Subject: lose 19 % weight . new weightloss available to you .
+hello , i have a special offer for you . . .
+want to lose weight ?
+the most powerful weightloss is now available
+without prescription . all natural adipren 720
+100 % money back guarant?e !
+- lose up to 19 % total body weight .
+- loss of 20 - 35 % abdominal fat .
+- up to 300 % more weight loss while dieting .
+- increase metabolic rate by 76 . 9 % without exercise .
+- reduction of 40 - 70 % overall fat under skin .
+- suppresses appetite for sugar .
+- burns calorized fat .
+- boost your confidence level and self esteem .
+get the facts about all - natural adipren 720 http : / / adiprenl 0 . com /
+- - - - system information - - - -
+into formatting knowledge the service incomplete document group
+development more - general back requires revised states ) encompasses activity
+pattern application tags marks cpp parsing to zone
+draft taking incomplete element incomplete internet public - il 8 n - ws - request @ w 3 org
+invite
+specifics and group forethought using applications under development
+",1,0,0.22099052,False Negative
+"Subject: message subject
+think getting a 1 . 95 % rate is impossible ?
+think again !
+we can offer you the absolute rock - bottom lowest rate , guaranteed .
+we work with all credit types . visit our site now , for your rate quote .
+click here now !
+now that i have had both services , and having noticed that a google search
+yields no definitive answers for people , i wanted to post my personal review
+of the two systems .
+i have an alpine cda - 7878 and an alpine xm unit and a panasonic sirius unit ,
+both with terk antennas . the alpine unit was connected to the head unit via
+an ainet cable and the sirius unit was connected with an auxiliary rca
+adapter available from alpine ( kca - 121 b ) . i had xm since it debuted and
+sirius for a few months in the pacific northwest .
+the bottom line , for those needing a quick answer , is sirius is superior in
+sound quality , features ( free streaming from their website ! ) , and channel
+quality ( better music , no commercials , better talk ) . xm has a few more
+channels that make very little difference to the end result ( read on ) .
+after careful review of both systems , sirius came out the winnner , as i have
+said . the channels are laid out well , lack commercials , sound great , and
+are streamed on the internet . the only disadvantage of sirius was its
+oft - sited lack of nascar , which they seem to be trying to remedy . also , xm
+has an extra comedy channel ( it ' s boring , and features older , censored
+comedy ) , and a few more "" experimental "" music channels which most will find
+totally useless . surfing xm for music is often like surfing the regular
+( terrestrial ) radio in a large city - you get nothing but frustration . it ' s
+no wonder xm doesn ' t stream live on the net so that you can try before you
+buy . also , xm ' s channel layout was unfriendly , in my opinion .
+the greatest and most dizzying drawback in comparing the two , however , are
+the staggeringly stupid and annoying xm commercials . not necessarily the
+corporate commercials that come from outside companies ( which are annoying
+in an expected way ) , but the ridiculous and loud in - house xm stuff that
+makes you have to turn down your radio really quick when you ' ve had it up
+loud - especially with the windows open ( yes , they are that embarrassing ) .
+this , and the better performance of sirius , was the deciding factor in my
+cancelling xm .
+xm , however , holds their own and can satisfy a customer with some decent
+music and a fair selection of talk . if not for sirius , i would have kept
+xm , i think ; probably because it is nice to listen to the same station no
+matter where you go . yet , as is the way of competition , sirius has offered
+everything good that xm does and done it right . sirius outshines in the
+talk category , with a variety of right and left - wing shows , all of the
+useful talk channels xm has , and npr , pri , and a well laid - out channel plan .
+xm does a bit better in the design of their customer care website . sirius
+also has a customer care website , but it is not as robust ( less detail ) .
+however , xm doesn ' t have streaming audio on its website - apparently we all
+have to pay xm $ 6 . 99 extra in additon to buying another $ 200 receiver for
+the house . in addition to the crappy commercials , this is probably where
+the corporate influence of xm being part - owned by clearchannel and gm shows .",1,0,0.049746014,False Negative
+"Subject: wild fuck of this pretty slutty mom ! . . . amicable
+out of the frying pan and into the fire .
+a cat may look at a queen .
+mothers - housewives sure know how to have fun !
+a couple of drinks with the sons friends , and they ' re all ready
+and willing to take cocks into their mouths !
+a couple more - and they ' re doing the nastiest things
+you could only see in your wet dreams !
+you won ' t even have to ask them twice !
+continue : http : / / aragats . info / dm /
+to delete your mail from our news follow the link :
+http : / / aragats . info / dm / unsub . php
+a wise head keeps a still tongue .
+home sweet home
+",1,0,0.384188,False Negative
+"Subject: feelings of guilt , worthlessness , helplessness ?
+htmlbodytable cellpadding = 10 align = centertrtda href = http : / / www . zmedabsd . info / 92 / img
+src = http : / / thm - brlr 2 . search . vip . scd . yahoo . com / image / 27167564 / a / tdtd width = 30 / tdtd
+align = centera href = http : / / www . zmedabsd . info / 92 / font size = 7 face = arial color = blackdepressed ? / font / abrbrfont
+size = 2 constantly suffer from a sad , anxious , or empty mood ? brplagued by feelings of
+hopelessness ? brexperience decreased energy , increased fatigue , feel slowed
+down ? / td / tr / tablebrbrcentera href = http : / / www . zmedabsd . info / 92 / font face = comic sans msfind out what you can
+do about it . . . / a / body / html
+brbrbrbrbrbrbrbr
+guido asterixe - mail fool ssssss dragonfl sarahlmidori aeh stingray lucas promethe joanna
+godzilla flight fountain
+fiona nikitaliverpoo pirate aliens
+asdfghjk timber dead
+young yomamacaesar midori symbol
+nimrod sonnypedro kenneth megan frederic velvet nugget
+",1,0,0.3306818,False Negative
+"Subject: do you love low - pricedstocks , apwl - pk _ reamer
+hello sandison
+apwl is a gold mine - it is at it ' s 52 week low at
+the moment and this is our hot pick this week , it
+can easily go up to $ 1 . 25 very fast here is the
+latest news below . don ' t miss out on this one get
+it asap for huge profits like our other picks which
+return 300 to 750 % every week , don ' t miss this one !
+symbol : apwl . pk
+current _ price : . 32
+target _ price - 1 . 50
+52 - wk high : 2 . 25
+52 - wk low : . 32
+advanced powerline technologies announces plans
+to launch a manufacturer direct to consumer web
+site wednesday july 20 , 10 : 05 am et
+woodward , okla . - - ( business wire ) - - july 20 , 2005
+advanced powerline technologies , inc . , ( apwl . pk -
+news ) announced today that it plans to launch a
+new web site for direct manufacturer to consumer
+sales of its power line communications ( plc )
+compatible lcd high definition digital televisions
+( hdtv ) and other power line communications ( plc )
+devices . through this new web site , consumers will
+be able to place orders for state of the art high
+tech lcd high definition digital televisions ( hdtv )
+direct from the american manufacturer , advanced
+powerline technologies , inc . , in woodward , oklahoma ,
+to be delivered in time for christmas .
+advanced powerline technologies , inc . ' s , power line
+communications ( plc ) compatible state of the art high
+tech lcd high definition digital televisions ( hdtv )
+will be the first of its kind to be engineered to meet
+the new fcc regulations regarding broadband over power
+line ( bpl ) and power line communications ( plc ) devices .
+the company anticipates sales of its lcd high definition
+digital televisions ( hdtv ) to reach twenty thousand
+( 20 , 000 ) units per month once the web site is launched .
+apwl ' s lcd high definition digital televisions ( hdtv )
+will be assembled in the company ' s plant in oklahoma ,
+giving the consumer the opportunity to purchase state
+of the art high tech lcd high definition digital
+televisions ( hdtv ) assembled in the united states at
+a competitive price to foreign made products .
+advanced powerline technologies is working hard to put
+americans back to work in the high tech consumer
+electronics industry . the company believes that
+providing the american consumer the opportunity to
+purchase state of the art high tech lcd high definition
+digital televisions ( hdtv ) assembled by americans , for
+americans , in the united states at a competitive price
+to foreign made products is the best way to create jobs
+in america and do our part to help create a thriving
+american economy .
+advanced powerline technologies wants to express its
+sincere gratitude and appreciation to lavern phillips ,
+president of the woodward industrial foundation , the
+woodward industrial foundation with all its members ,
+the woodward , oklahoma chamber of commerce , the city
+and county of woodward , oklahoma , the governor and
+lieutenant governor of oklahoma , the state of oklahoma ,
+and other united states federal entities and the
+governments of taiwan and mainland china , along with
+all the numerous private individuals and investors
+that have helped bring advanced powerline technologies ,
+inc . , to this point . the unwavering and continued support
+of all these entities and individuals has made it possible
+for advanced powerline technologies , inc . , to emerge as
+a world leader in power line communications ( plc )
+compatible state of the art high tech lcd high definition
+digital televisions ( hdtv ) , mobile phones and other
+power line communications ( plc ) compatible devices
+and services .
+apwl ' s principal business focus is to create and develop
+broadband over power line ( bpl ) and power line
+communications ( plc ) friendly devices , products and
+services . the company ' s principal products at this time
+are cellular phones and liquid crystal display ( lcd )
+digital televisions with high definition tuners ( hdtv ) .
+the company intends on marketing the sales of cellular
+phones and high definition digital televisions ( hdtv )
+internationally and domestically . upon the completion
+of research , development , and the verification of test
+results of the company ' s broadband over power line ( bpl )
+and power line communications ( plc ) devices , the company
+intends to utilize the technology within the existing
+product platforms to enhance their capabilities . the
+company ' s main products will become broadband over power
+line ( bpl ) and power line communications ( plc ) friendly
+devices with the company ' s related hardware and system
+service .
+daintily
+blueing january
+",1,0,0.1418435,False Negative
+"Subject: download popular christmas music
+hello
+sorry this took so long to send
+this is the link to the website you wanted to see .
+http : / / www . thefilecompany . com / shwk . html
+let me know if you like it
+take care
+dalton guthrie
+",1,0,0.07903053,False Negative

@@ -119,6 +119,30 @@ with tabs[1]:
                 st.image(roc_path)
             else:
                 st.write("Plot not available.")
+
+        st.markdown("---")
+        st.subheader("Error Analysis (False Positives & Negatives)")
+        
+        error_path = f'data/error_analysis_{selected_model.replace(" ", "_")}.csv'
+        if os.path.exists(error_path):
+            error_df = pd.read_csv(error_path)
+            
+            col_err1, col_err2, col_err3 = st.columns(3)
+            col_err1.metric("Total Errors", len(error_df))
+            col_err2.metric("False Positives", len(error_df[error_df['Error_Type'] == 'False Positive']))
+            col_err3.metric("False Negatives", len(error_df[error_df['Error_Type'] == 'False Negative']))
+            
+            st.write("### Misclassified Emails")
+            st.dataframe(error_df, use_container_width=True)
+            
+            st.download_button(
+                label="Download Error Analysis CSV",
+                data=error_df.to_csv(index=False).encode('utf-8'),
+                file_name=f'error_analysis_{selected_model.replace(" ", "_")}.csv',
+                mime='text/csv',
+            )
+        else:
+            st.info(f"No error analysis file found for {selected_model}. (Perfect score or file missing)")
     else:
         st.warning("No evaluation results found. Please run the training script.")
 
