@@ -2,21 +2,19 @@ Text,Actual,Predicted,Probability,Error_Type
 "Subject: physical curve mappings _ sitara
 hey gang ,
 attached are the physical curve mappings as provided by russ severson . . . please take a peek and let us know if we need to change , add / delete , update any points / mappings going forward in a netco environment . . . for instance , i would like to change texoma to carthage on the curve mappings . . . also , i would like to delete all derived curves , leaving only carthage , katytailgate , and agua dulce .
-the other physical locations would be shipchannel , waha and katy ( non - tailgate ) . . . let me know your thoughts . . . o ' neal 3 - 9686",0,1,0.0010035067289471842,False Positive
+the other physical locations would be shipchannel , waha and katy ( non - tailgate ) . . . let me know your thoughts . . . o ' neal 3 - 9686",0,1,0.0010058016832941985,False Positive
 "Subject: rates
 daren -
 rates for september :
 t - ville interconnects to equistar channelview $ . 15
 agua dulce interconnects to equistar channelview $ . 13
-let me know if you get something done or need quotes on something else ! term rate on # 6461 to follow .",0,1,0.0010439559263622211,False Positive
-"Subject: first deliveries - comstock oil & gas and hesco gathering company
-see attached letters",0,1,0.0010118561270826807,False Positive
+let me know if you get something done or need quotes on something else ! term rate on # 6461 to follow .",0,1,0.0010421754334132283,False Positive
 "Subject: gathering meters adjustments
 please refer to the attached spreadsheet . the gathering meters nominations
 have been adjusted to the volumes in the avg column effective 4 / 9 / 01 .
-bob",0,1,0.0010146504374619369,False Positive
+bob",0,1,0.0010043546317745258,False Positive
 "Subject: tom moore , jr .
-following up conversations i have had with several of you , i would appreciate your consideration of the following candidiate for a logistics position . tom moore , jr . is currently a securities manager for fidelity investments in the dallas area , but interested in seeking a position in a energy related business in houston . he has an undergraduate degree ( bba ) from baylor and an mba from university of dallas . it is my understanding that you may be interviewing at this time or in the near future and i would appreciate your consideration of him for a position . i will be happy to introduce you to him and provide additional information about tom if you have an interest . you may reach me at ext . 3 - 1791 . thanks much .",0,1,0.0010232494073786752,False Positive
+following up conversations i have had with several of you , i would appreciate your consideration of the following candidiate for a logistics position . tom moore , jr . is currently a securities manager for fidelity investments in the dallas area , but interested in seeking a position in a energy related business in houston . he has an undergraduate degree ( bba ) from baylor and an mba from university of dallas . it is my understanding that you may be interviewing at this time or in the near future and i would appreciate your consideration of him for a position . i will be happy to introduce you to him and provide additional information about tom if you have an interest . you may reach me at ext . 3 - 1791 . thanks much .",0,1,0.0010222768801838923,False Positive
 "Subject: eastrans nomination effective 1 / 25 / 01
 clarification to below : effective 1 / 25 / 01 ! !
 - - - - - - - - - - - - - - - - - - - - - - forwarded by marta k henderson / houston / pefs / pec on
@@ -38,44 +36,13 @@ please increase deliveries into eastrans to 25 , 000 mmbtu / dy effective
 9 / 25 / 01 and continue until further notified .
 the redeliveries will be :
 7300 mmbtu from fuels cotton valley
-17 , 700 mmbtu to pg & e",0,1,0.0010434779679432125,False Positive
+17 , 700 mmbtu to pg & e",0,1,0.0010273046860250724,False Positive
 "Subject: resume - liz bellamy
 following is the resume of liz bellamy . liz is currently at txu in the power
 group , but has gas experience , also . she is deciding whether she wants to
 relocate with txu to dallas . she would be interested in talking to enron
 about possible opportunities . her current salary is $ 50 k . please let me
-know if you would like to interview .",0,1,0.0010093292385060825,False Positive
-"Subject: vance here is a list of meters that are in sitara under the well head
-portfolio but are not on your sheets for this month . please check these out
-as soon as possible so i can get the best number to daren asap . thanks tom .
-acock engineering . 985547 # 229474 77
-blackhawk oil 27 - 0 # 133255 670
-black stone 989003 # 137868 664
-conoco 984132 # 138103 144
-dale operating co 985502 # 138342 37
-dn hughes 980275 # 138800 70
-elpaso 980308 # 139674
-eog 27 - 0 # 126370
-2027
-980440
-# 126351 444
-four square 986735 # 137971 1147
-lousis dreyfus 987491 # 138017 1000
-muelller exploration 986838 # 164172 2800
-ph exploration 986542 # 138554 47
-prime energy 986542 # 138578 418
-states inc . 23 - 3
-# 138359 85
-tejones 989643 # 133173 1068
-titan resources 989685 # 248551 242
-upstream 985155 # 138628 8000
-valence operating 984132 # 138570 12
-vintage 989643 # 139661
-14
-wagner oil 27 - 0 # 138033 900
-western gulf 980106 # 139671 1068
-wilmar pipline 985048 # 224899 163
-total 21097",0,1,0.0010036349299155575,False Positive
+know if you would like to interview .",0,1,0.0010100242087586234,False Positive
 "Subject: out of the office
 please note that i will be out of the on tuesday , july 11 th through friday ,
 july 14 th . i will return on monday the 17 th . in my absense , my desk will be
@@ -96,33 +63,90 @@ eddie janzen / mary poorman :
 oasis pipe line - - offsystem nominations / scheduling / pathing
 thanks ,
 mark
-x 33396",0,1,0.0010122739915180978,False Positive
-"Subject: united salt quote
-daren / dave -
-sorry i didn ' t get this out yesterday . give me a call if you have any
-questions .
-- unitedsalt 8022 . xls",0,1,0.001004714298865705,False Positive
+x 33396",0,1,0.0010112246995734899,False Positive
 "Subject: re : tenaska iv 10 / 00
 we have received all of the money from the spot sales for tenaska iv in
 october 2000 , except for the tenaska iv sale and the $ 0 . 04 fee .
-megan",0,1,0.0010159624727023536,False Positive
+megan",0,1,0.0010150350095133294,False Positive
+"Subject: lyondell - - # 1063
+the gas looks like it is not allocating correctly in jan .
+i have not researched as to why , but if you like i can come down and go over
+some things to help identify and correct these kinds of problems .
+let me know .
+ken",0,1,0.0010073232067351826,False Positive
+"Subject: walter o & g / superior april noms
+tom ,
+i recently received this nomination and the total package of gas for the
+aforementioned changed as follows :
+counterparty meter last nom latest nom chg .
+walter o & g 9747 3 , 901 mmbtu / d 3 , 426 mmbtu / d ( 475 ) mmbtu / d
+walter o & g 9787 1 , 604 mmbtu / d 1 , 713 mmbtu / d 109 mmbtu / d
+walter o & g 9808 4 , 890 mmbtu / d 4 , 950 mmbtu / d 60 mmbtu / d
+superior natural gas 9741 2 , 783 mmbtu / d 2 , 570 mmbtu / d ( 213 ) mmbtu / d
+total change ( 519 ) mmbtu / d
+i ' ve made the change in my spreadsheet .
+vlt
+x 3 - 6353",0,1,0.0010158309428276542,False Positive
 "Subject: re : union gas - doehrman # 1
-the new sitara ticket # is 165331",0,1,0.0010216001898992908,False Positive
+the new sitara ticket # is 165331",0,1,0.00102020594608399,False Positive
 "Subject: first delivery - rodessa operating co .
-see attached letter",0,1,0.0010724669935372117,False Positive
+see attached letter",0,1,0.001054161061037195,False Positive
+"Subject: cdnow shipment confirmation
+dear daren ,
+thank you for shopping at cdnow . please keep this email invoice for
+your records .
+on february 21 we shipped your order number 16840862 for the following item :
+cash / nelson : vhl storytellers
+format : cd quantity : 1 price : 11 . 49
+to the following address via u . s . postal service :
+daren farmer
+5519 clarkston ln
+spring , tx 77379
+total number of items : 1
+subtotal : $ 11 . 49
+shipping : $ 2 . 99
+sales tax : $ 0 . 00
+- - - - - - - - - -
+shipment total : $ 14 . 48
+your order was billed to daren farmer . this shipment completes your
+order and is paid in full .
+most orders arrive within 4 - 8 business days . however , in rare instances
+it may take up to 2 weeks .
+turn up the volume on your career !
+bose audio products are legendary . so are bose careers ! for excitement ,
+innovation and uncompromising performance , nothing takes you to a higher
+level than a job at bose . make a sound career move by visiting
+http : / / www . bose . com / hl 01
+for complete information about your order ( number 16840862 ) or to
+confirm the status , click or copy / paste this link into your web browser :
+http : / / cdnow . com / myorder / otid = 16840862
+you can also access your order history directly from our home page .
+please do not reply to this email . if you have questions about your order
+that are not addressed in your online order history , please visit our contact
+cdnow page using this link :
+http : / / cdnow . com / service
+fast forward rewards ( tm ) program points for this order will
+be credited in your membership summary as "" points earned . ""
+thanks again for your order .
+sincerely ,
+customer service
+cdnow , inc . your music . your store .
+http : / / cdnow . com
+aol keyword : cdnow
+1757978",0,1,0.001003009769622798,False Positive
 "Subject: important video announcement
-i have a very important video announcement about the future of our company . please go to to access the video . thank you .",0,1,0.0011303159996153926,False Positive
+i have a very important video announcement about the future of our company . please go to to access the video . thank you .",0,1,0.0011392403674470824,False Positive
 "Subject: re : tenaska iv 10 / 00
 we have received all of the money from the spot sales for tenaska iv in
 october 2000 , except for the tenaska iv sale and the $ 0 . 04 fee .
-megan",0,1,0.0010159624727023536,False Positive
+megan",0,1,0.0010150350095133294,False Positive
 "Subject: pat - out for jury duty
 i am out of the office on monday for jury duty . in my absence , charlotte
 hawkins will be the contact for the texas desk
 logistics group . she will attend any meetings while i am out and is
 responsible for our group ( we will rotate this backup
 role among the seniors of the group ) . i can be paged at ( 713 ) 708 - 0117 .
-thanks , pat",0,1,0.0010666145553498221,False Positive
+thanks , pat",0,1,0.0010820281604372952,False Positive
 "Subject: fw : playgroup & young families church party pictures
 bammelyoungfamilies
 - - - - - - - - - - - - - - - - - - - - - - - - - - - listbot sponsor - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -135,21 +159,21 @@ apply now !
 http : / / www . bcentral . com / listbot / nextcard
 the previous e - mail truncated the full web address . so , try the link below
 instead :
-to unsubscribe , write to - unsubscribe @ listbot . com",0,1,0.0010127334630291051,False Positive
+to unsubscribe , write to - unsubscribe @ listbot . com",0,1,0.0010144530241975767,False Positive
 "Subject: resume - dart arnaez
-internal candidate response to job # 104210 . i have not talked to him .",0,1,0.0012363837772485897,False Positive
+internal candidate response to job # 104210 . i have not talked to him .",0,1,0.0014149068333095057,False Positive
 "Subject: meoh upset
 the meoh plant began having problems on june 30 . on july 3 , a flange fire on
 piping occurred . the piping could not be depressured and the plant was shut
 down . no eta for plant startup is available at this time . additional
-information will be forwarded when available .",0,1,0.0010148291900163552,False Positive
+information will be forwarded when available .",0,1,0.0010206186099128514,False Positive
 "Subject: job number
 your job number is 104210 . it will be posted on the enron website by 6 : 00
 p . m .
 thank you ,
-felicia solis",0,1,0.0010378596984824179,False Positive
+felicia solis",0,1,0.0010703857398882313,False Positive
 "Subject: re : duke cashout entries 5 / 00 and 6 / 00
-thanks . it came through . i should have 7 / 00 and 8 / 00 for you tomorrow .",0,1,0.001044490166440612,False Positive
+thanks . it came through . i should have 7 / 00 and 8 / 00 for you tomorrow .",0,1,0.001097147127483427,False Positive
 "Subject: new intramonth book
 ql ) are you going to be setting up an hplc - ft - waha ?
 q 2 ) roll up issues for positions
@@ -182,7 +206,7 @@ subject : new intramonth book
 please send me all forms / requests that need to be filled out to set up a new
 intramonth book for the texas desk . also , what do you think the timeline is
 for getting the new book set up ?
-dave",0,1,0.0010069794712894225,False Positive
+dave",0,1,0.0010215967877649397,False Positive
 "Subject: reviewers
 janet wallis
 kyle lilly
@@ -192,7 +216,7 @@ thu nguyen
 joan quick ( for ces )
 bob superty ( ces )
 ed gottlob
-bryan hull",0,1,0.0011086705355050697,False Positive
+bryan hull",0,1,0.0010787522943871272,False Positive
 "Subject: name change / merger listing for 7 / 00
 this is the preliminary spreadsheet for july . there will definitely be
 another listing distributed no later than this friday . for some reason there
@@ -200,7 +224,7 @@ has been an unusual number of notices issued and we are working diligently to
 get the documents lined up .
 updates to records in gcp for counterparty name changes :
 the legal name field will be updated monday afternoon ( 7 / 17 ) .
-the erms shortnames will be changed on tuesday afternoon ( 7 / 18 ) .",0,1,0.0010075872705689096,False Positive
+the erms shortnames will be changed on tuesday afternoon ( 7 / 18 ) .",0,1,0.0010043070772801112,False Positive
 "Subject: fw : men & cars
 because i ' m a man , when i lock my keys in the car i will
 fiddle with a wire clothes hanger and ignore your
@@ -254,33 +278,33 @@ can we just go now ?
 because i ' m a man , and this is , after all , the 2000 ' s , i will
 share equally in the housework . you just do the laundry ,
 the cooking , the gardening , the cleaning , and the dishes . i ' ll
-do the rest .",0,1,0.001019269715269917,False Positive
+do the rest .",0,1,0.0010240911538597517,False Positive
 "Subject: re : duke
 this has been nominated , tracked and balanced . . .
-mary",0,1,0.0011540674503872329,False Positive
+mary",0,1,0.001224220981365558,False Positive
 "Subject: re : boat
 i checked the boat and it is 17 ft , 7 in . long , it is a capri model # 1750 ch ,
-it has a am / fm cass . the motor is 3 . 0 l mercruiser alpha sterndrive ( 135 hp )",0,1,0.00115057021658336,False Positive
+it has a am / fm cass . the motor is 3 . 0 l mercruiser alpha sterndrive ( 135 hp )",0,1,0.0011826829434583219,False Positive
 "Subject: mtbe upset
 the mtbe plant had an upset early today and a steam boiler is being taken out
 of service . production will be cut back to approximately 8 mbd to 9 mbd for
-four to five days .",0,1,0.0010554761359211637,False Positive
+four to five days .",0,1,0.0010570180059081302,False Positive
 "Subject: your username and password
 dear daren farmer ,
 here is your username and password that you requested .
 username : dfarmer 2
 password : jungle
 you can update your info at :
-",0,1,0.00118275605299177,False Positive
+",0,1,0.0011134258775701202,False Positive
 "Subject: cornhusker
-where are we on the gas agreement for the cleburne plant ?",0,1,0.0010554887618189795,False Positive
+where are we on the gas agreement for the cleburne plant ?",0,1,0.0010562186427550177,False Positive
 "Subject: ces volumes on tejas
-june volumes on tejas are attached .",0,1,0.0010918533472941484,False Positive
+june volumes on tejas are attached .",0,1,0.0011166767699547434,False Positive
 "Subject: new email
 yo bro . this is my new email address . save it .
 aggie _ chico 2 @ hotmail . com .
 love you , lacy
-get your private , free email at http : / / www . hotmail . com",0,1,0.001035694153404148,False Positive
+get your private , free email at http : / / www . hotmail . com",0,1,0.0010293509899516051,False Positive
 "Subject: fw : sitara eol bridge problem today
 fyi > > > we were also monitoring the eol to sitara bridge during this time to inform our traders and other desks of the situation and status . . . all deals bridged over by 10 : 30 ish . thanks
 - - - - - original message - - - - -
@@ -291,9 +315,7 @@ cc : husain , karima ; lim , francis s . ; saluja , gurdip ; sweitzer , tara
 subject : sitara eol bridge problem today
 the problem we faced today was due to 2 eol deal packets ( 2098073 , 2099764 ) not having startdate and enddate . missing these 2 tibco message fields caused the bridge to bounce and resulted in the queue to build up while the bridge is starting up . ( the bridge takes 2 minute for startup ) . each time these deals are sent / resent , it continuously cause the sitarar eolbridge to restart , thus magnifying the buildup of the queue .
 the corrective action we are taking at our end is to build a rejection logic when eol packets do not have start and / or enddate .
-- dat truong",0,1,0.0010061588190057736,False Positive
-"Subject: august 2000 buyback worksheet
-attached is a listing of august 2000 activity "" buybacks "" .",0,1,0.001015534125033262,False Positive
+- dat truong",0,1,0.0010048236628509813,False Positive
 "Subject: announcement for february 7
 please talk up the senior high night out this wednesday . ? ? it is this friday
 night from 9 : 30 pm - 2 : 30 am , with bowling , broomball , and other stuff ! ? the
@@ -307,7 +329,7 @@ go on to other stuff till 2 : 30 !
 ?
 see you at the aerodrome .
 ?
-bobby",0,1,0.0010029940564263674,False Positive
+bobby",0,1,0.0010033749791230218,False Positive
 "Subject: buyback / deficiency deals worksheet
 please make the following changes and redistribute your worksheet . thanks
 !
@@ -322,12 +344,12 @@ mtr . 981233 . . . . 148388
 3 ) . valero marketing & supply "" swing "" sitara ticket # ' s are as follows :
 mtr . 981394 . . . . . . 148391
 mtr . 988018 . . . . . . 148382
-mtr . 981233 . . . . . . 148386",0,1,0.0010155851676158544,False Positive
+mtr . 981233 . . . . . . 148386",0,1,0.0010174310819527394,False Positive
 "Subject: february updates
-sorry so late .",0,1,0.0011838298032395271,False Positive
+sorry so late .",0,1,0.0011399154417958796,False Positive
 "Subject: correction on first delivery for cody
 it should read cuba libre field and cuba libre central point .
-eb",0,1,0.0012131081020691314,False Positive
+eb",0,1,0.0011245060883127752,False Positive
 "Subject: work distribution
 logistics has made the following changes :
 bob cotten - will handle the wellhead portfolio ( currently handled by tom
@@ -338,13 +360,21 @@ mark mccoy - will handle oasis activity , midcon , wgr , lonestar , trunkline
 jackie young - will handle exxon katy ( from susan )
 sabrae zajac - anadarko , conoco , tejas , coral , corpus christi , dynegy , and
 imbalance reports
-thanks , pat",0,1,0.0010086078281540112,False Positive
+thanks , pat",0,1,0.0010070625358242604,False Positive
 "Subject: updated buyback list
 westvaco is a brand new company . i have added march also , didn ' t know about
 that one . also , there will be one for rohm & haas , hopefully will be down in
-the next day or two . and there will not be one for bayer in april .",0,1,0.0010077005984068224,False Positive
+the next day or two . and there will not be one for bayer in april .",0,1,0.0010067332669303787,False Positive
 "Subject: re : fw : king ranch balancing . xls
-saxet is flowing about 5200 ish .",0,1,0.0012217439996398732,False Positive
+saxet is flowing about 5200 ish .",0,1,0.001115706283512418,False Positive
+"Subject: last check
+darren ,
+please review the names below and let me know if there are any other names
+that need to be added or subtracted from your group for prc purposes . thanks
+for your help , hgm
+sr . specialist
+ami chokshi
+stacey neuweiler",0,1,0.0010034108983345473,False Positive
 "Subject: fw : missing man formation
 - - - - - original message - - - - -
 from : abbott , todd
@@ -420,7 +450,7 @@ use , disclosure or distribution is prohibited . if you are not the intended
 recipient , please contact the sender by reply e - mail and destroy all copies
 of the original message . thank you .
 - att 2 . htm
-- kyle field . jpg",0,1,0.0010082232043852532,False Positive
+- kyle field . jpg",0,1,0.0010078633529343325,False Positive
 "Subject: goings on
 hi again ,
 ?
@@ -440,7 +470,7 @@ markets up nicely , courts ruling nicely , greenspan softening his stance on
 interest , linda not shopping as much as prior years . looking good today .
 ?
 later ,
-ken",0,1,0.0010110212721279974,False Positive
+ken",0,1,0.0010158006175663937,False Positive
 "Subject: help !
 brian ,
 who do i talk to about getting daren farmer a labor distribution report . he
@@ -449,9 +479,9 @@ discussed this prior and soem managers are receiving a monthly report but he
 is not . who can help us ? ? ?
 thank you !
 yvette
-x 3 . 5953",0,1,0.001013415904671151,False Positive
+x 3 . 5953",0,1,0.0010187668969509948,False Positive
 "Subject: re : midcoast marketing
-the deals are in and the ticket numbers are jan . 214249 and feb . 214251 .",0,1,0.001044213410428117,False Positive
+the deals are in and the ticket numbers are jan . 214249 and feb . 214251 .",0,1,0.0010498609915633086,False Positive
 "Subject: global risk management operations
 recognizing enron  , s increasing worldwide presence in the wholesale energy
 business and the need to insure outstanding internal controls for all of our
@@ -490,11 +520,11 @@ experience as a commercial banker and spent seven years as a registered
 securities principal with a regional investment banking firm . she also owned
 and managed a retail business for several years .
 please join me in supporting sally in this additional coordination role for
-global risk management operations .",0,1,0.0010050433786765749,False Positive
+global risk management operations .",0,1,0.0010089368507108932,False Positive
 "Subject: stacey - cqg
 daren , i completely forgot about stacey ' s cqg . . . was i supposed to send in
 another request for her and put it on tom ' s cost center ? or were we going to
-wait for tom to okay it first ? ?",0,1,0.0010910536597010165,False Positive
+wait for tom to okay it first ? ?",0,1,0.0010603282928772972,False Positive
 "Subject: hpl meter # 986240 el campo / shanghai commonpoint
 daren :
 during the period of 9 / 1 / 99 to 9 / 30 / 99 , the above meter has recorded flow on
@@ -540,26 +570,26 @@ later month .
 deal / dealticket # / customer ( seller / buyer )
 or
 approval to writeoff the volumes to unaccounted for gas loss
-thanks , clem",0,1,0.0010152084039453594,False Positive
+thanks , clem",0,1,0.0010370423092408453,False Positive
 "Subject: per nelson ferries ( dealmaker ) : we do pay spinnaker i - . 08 . o ' neal , could you
 please change the base purchase deals to reflect that price . i changed the
 transport tickets to show that we pay nothing .
 thanks ,
-ami",0,1,0.0010204413523367281,False Positive
+ami",0,1,0.0010225770387760212,False Positive
 "Subject: on call notes for weekend dated ; august 12 th thru 13 th
-attached are the notes from this weekend .",0,1,0.0010567456750491715,False Positive
+attached are the notes from this weekend .",0,1,0.0010774539824936805,False Positive
 "Subject: first delivery - wheeler operating
-please see attached letter",0,1,0.0010724669935372117,False Positive
+please see attached letter",0,1,0.001054161061037195,False Positive
 "Subject: resume - alex argueta
 the following is the resume of alex argueta . he is currently a revenue
 accountant at eog resources . he is open to other accounting opportunities ,
 as he does not want to be restricted to revenue accounting . his salary is
-$ 42 k .",0,1,0.0010711636438494566,False Positive
+$ 42 k .",0,1,0.0010489079119376371,False Positive
 "Subject: out thurs & friday
 i will be out of the office on thursday and friday . my pager may not reach
 me but i will be checking my voice mail .
 please call george grant in my absence at ext . 36224 . thanks , pat
-get with me today if you need anything by the end of the week .",0,1,0.0010103089692867697,False Positive
+get with me today if you need anything by the end of the week .",0,1,0.0010094487526897333,False Positive
 "Subject: missing txu lonestar and oasis paths
 stacey ,
 it looks like your missing paths revealed a quirk in our suppression of zero
@@ -569,9 +599,9 @@ zero path should no longer be suppressed .
 we have fixed the 4 paths affected and have corrected the code so this won ' t
 happen any more . below is a screen print of the nov 22 problem that is now
 fixed .
-thanks , d . n .",0,1,0.0010570764375769474,False Positive
+thanks , d . n .",0,1,0.0010337214240141459,False Positive
 "Subject: re : first delivery - texaco e & p
-i have the spot ticket in with deal # 211573 .",0,1,0.0010644520371905317,False Positive
+i have the spot ticket in with deal # 211573 .",0,1,0.0011075770381821935,False Positive
 "Subject: oasis pma ' s for 1999
 stacey , i need your help in clearing pma ' s for oasis . i have a lot of pma ' s
 for 1999 related to rates missing or incorrect . would you help me by passing
@@ -585,10 +615,10 @@ the volume management group ( rita wynne ' s group ) wants to have the rates
 cleared up by wednesday next week , which means i will probably need to get
 something from you by monday . sorry for the late notice . please call me at
 x 3 - 1836 if you have any questions .
-heidi",0,1,0.001041990019202477,False Positive
+heidi",0,1,0.0010430812979727493,False Positive
 "Subject: hunter ' s birthday party pictures
 if the above link doesn ' t work , try going to http : / / www . abacustech . net / pic
-- ram .",0,1,0.0010475057026950042,False Positive
+- ram .",0,1,0.0010399146827105956,False Positive
 "Subject: ces changes
 gulf energy pipeline
 tejas plant from 81 to 52
@@ -599,15 +629,9 @@ from 10939 to 7876
 corpus christie
 virginia from 379 to 165
 midcon
-greta tom oconner from 2243 to 1392",0,1,0.001032665243366572,False Positive
-"Subject: out of office
-please note that i will be out of the office on friday , 10 / 6 / 00 . in my
-absence tom acton will be handling the oasis & lonestar interconnects at
-katy , and mary poorman will handle the nomination to oasis and cornhusker if
-necessary , but it is already nominated for the weekend .
-thanks ,
-mark
-x 33396",0,1,0.0010024220154215327,False Positive
+greta tom oconner from 2243 to 1392",0,1,0.0010235807969004149,False Positive
+"Subject: june 2001 wellhead nomination
+the attachment provides details for a total wellhead nomination for june 2001 of 734 , 436 mmbtu / d . george",0,1,0.0010204569617342236,False Positive
 "Subject: meter 1517 - jan 1999
 george ,
 i need the following done :
@@ -620,7 +644,7 @@ zero out 012 - 64610 - 02 - 055 deliv package id 392
 these were buybacks that were incorrectly nominated to transport contracts
 ( ect 201 receipt )
 let me know when this is done
-hc",0,1,0.0010117933972060946,False Positive
+hc",0,1,0.0010102435442021546,False Positive
 "Subject: fyi - new pager number
 fyi - ( no reply necessary )
 i have a new pager number ( it does not require a pin # ) . please note the new
@@ -628,11 +652,11 @@ number and make changes to contacts sheets if necessary
 old : 800 - 759 - 7243 pin # 2377872
 new : 877 - 502 - 9986
 thanks
-trey",0,1,0.001019405346534202,False Positive
+trey",0,1,0.0010254067488712556,False Positive
 "Subject: duplicates
 sorry for any duplicate , having problems with lotus
 notes .
-gary green",0,1,0.001084022608223482,False Positive
+gary green",0,1,0.0010963030926215112,False Positive
 "Subject: beaumont methanol
 this is to confirm that we need to take our delivery to hpl meter # 1428 to
 zero ! !
@@ -640,24 +664,27 @@ beaumont methanol started a controlled shut - down last night ( they will be
 down in deco 0 due to high gas prices ) . . . . and it became an "" out - of - control ""
 shut in and they had to shut down last night , and are now taking no gas from
 the dupont header .
-lee",0,1,0.0010102192796219436,False Positive
+lee",0,1,0.0010138301292402828,False Positive
 "Subject: global octanes
 finished visiting with counsel . . . . . we will need to start with the buyback
-for global octanes 9 am tomorrow",0,1,0.0012046804985999496,False Positive
+for global octanes 9 am tomorrow",0,1,0.0011212385317985888,False Positive
 "Subject: see attached memo
 please read the following attachment :
 thank you ,
-kathy benedict",0,1,0.0010352497932128069,False Positive
+kathy benedict",0,1,0.0010184649000047948,False Positive
 "Subject: mary poorman interview schedule & resume
 please be advised that the interview for mary poorman , to be held today will
 be in room 3671 . the schedule is as follows :
 pat clynes 2 : 30
 lauri allen 3 : 00
 gary hanks 3 : 30
-daren farmer 4 : 00",0,1,0.0010096396697190492,False Positive
-"Subject: wellhead adjustments
-the attached spreadsheet represents adjustments to nominations on wellhead meters . the adjustments were made effective 4 / 18 / 01 .
-bob",0,1,0.0010107509650651532,False Positive
+daren farmer 4 : 00",0,1,0.0010100996581653794,False Positive
+"Subject: generic contract
+hi daren ,
+sorry for the delay . here is a blank contract . let me know if i can do
+anything else for you .
+pmac
+- proforma intrastate . doc",0,1,0.0010035267205520668,False Positive
 "Subject: registration confirmation - my yahoo !
 account information
 help
@@ -702,7 +729,7 @@ you are then prompted for the deletion key , please cut and paste the
 following to the text box as requested on the deletion page :
 you could also reply to this email ( and make sure to copy this entire email
 in your reply ) with remove as the subject line .
-[ 192 . 152 . 140 . 9 ]",0,1,0.0010487616033940654,False Positive
+[ 192 . 152 . 140 . 9 ]",0,1,0.0010355009391474213,False Positive
 "Subject: work assignments
 mike
 i see that you have alot of the things that are on the error report , some of
@@ -714,24 +741,22 @@ to do which still must be done , it just comes with the territory ) . also , let
 me know if you feel comfortable with any additional shipper accounts . i
 would like to see you crosstrain with sabrae after the holidays .
 thanks ,
-mary",0,1,0.0010035297408431242,False Positive
+mary",0,1,0.0010062438405357974,False Positive
 "Subject: income tax
 hey ! tonya said to staple copy b of the w - 2 to the tax return - - but on the
 one from camp it says copy c for payer or state copy , copy b for recipient
 ( keep for your records ) . so which one do i send ? the one from the school
 says send b but i ' m confused on the other one .
 what did the doctor say about tonya & the due date ? love , ma
-get your private , free email at http : / / www . hotmail . com",0,1,0.0010352769747257464,False Positive
+get your private , free email at http : / / www . hotmail . com",0,1,0.0010265306170291807,False Positive
 "Subject: re : meter 1428
 i am pretty sure this is a "" high zero "" and will be adjusted out by
 measurement . so , disregard these spurious volumes coming across .
-james",0,1,0.0010668733559620169,False Positive
+james",0,1,0.001053247293038999,False Positive
 "Subject: entex increase rom :
 huntsville / woodlands / conroe 11500 by 8 days = 92 , 000
 big ticket 50000 by 8 days = 400 , 000
-ami",0,1,0.0010235441538309275,False Positive
-"Subject: teco _ gas _ issues . xls
-here a preliminary list of items that need our attention . if any of you have action items that need attention please add them to the list and forward the list back to me .",0,1,0.0010155417906520814,False Positive
+ami",0,1,0.0010279244662484595,False Positive
 "Subject: cornhusker contact information - revised
 apache
 vernon tiger
@@ -771,7 +796,7 @@ phone : 817 - 641 - 5041 phone : same
 fax : 817 - 641 - 5042
 tenaska iv texas partners
 831 sparks drive
-cleburne , tx 76031",0,1,0.0010041408155498136,False Positive
+cleburne , tx 76031",0,1,0.0010039009321114582,False Positive
 "Subject: take 30 % off with our super ticket !
 use our super savings ticket at foot locker , lady foot locker , kids
 foot locker , champs sports stores and at our web sites !
@@ -805,18 +830,7 @@ fl . discount does not apply to nike air force 1 , timberland field boots ,
 jordan xi , nike shox and nfl super bowl products .
 if you do not wish to receive future emails please click below to
 unsubscribe :
-",0,1,0.0010023104145195647,False Positive
-"Subject: ferc issues nopr on intra - day recalls of released capacity
-ngi ' s daily gas price index
-published : october 17 , 2001
-ferc issues nopr on intra - day recalls of released capacity
-given the inability of the natural gas standards - setting organization to resolve the issue of intra - day recalls of released transportation capacity , ferc has issued a notice of proposed rulemaking ( nopr ) that would give releasing shippers the flexibility to re - nominate their recalled capacity at the next scheduling opportunity provided by an interstate pipeline .
-existing gas industry standards board ( gisb ) standards require a shipper that wants to re - nominate recalled capacity to notify its transportation provider by no later than 8 a . m . central clock time ( cct ) on a nomination day at the latest , and bars partial - day recalls of capacity . ferc proposes to allow shippers to recall capacity and re - nominate the recalled capacity at each of the three intra - day nomination opportunities .
-"" by enabling releasing shippers to recall and renominate capacity quickly , they will have greater incentive to release capacity , providing capacity purchasers with an alternative to purchasing pipeline interruptible service . at the same time , this proposal will provide replacement shippers whose capacity is recalled with the same advance notice and protection from bumping as is provided to interruptible shippers under the commission ' s regulations , "" the nopr said [ rm 96 - 1 - 019 ] .
-existing gisb standards applying to capacity - release recalls were adopted in 1996 , when there was only one nomination per day at 11 : 30 a . m cct and a single non - standardized intra - day nomination , it noted . "" but the circumstances under which the recall standards were developed have markedly changed as the number of nomination opportunities have now expanded to four nomination opportunities . ""
-given the lack of "" consensus supporting "" gisb ' s existing recall standards and the standards - setting group ' s failure to settle the issue , the commission is forced to "" resolve the policy question regarding partial - day recalls , "" the nopr said . permitting partial - day recalls of released capacity , the commission concluded , was in keeping with the overall regulatory changes that it enacted in order 637 .
-the natural gas supply association ( ngsa ) , which represents major producers , and houston - based dynegy let ferc know that they weren ' t big fans of partial - day recalls . these could undermine system reliability , they contend , by shutting in production and increasing scheduling problems , overruns , penalties or operational flow orders .
-but the commission discounted these arguments . "" . . . [ t ] he use of partial - day recalls should create no additional scheduling problems since recalls will be scheduled according to the existing scheduling requirements . in effect , releasing shippers using partial - day recalls are creating another form of interruptible transportation to compete with pipeline interruptible capacity , and shippers purchasing recallable capacity should be subject to the same scheduling rules that apply to interruptible transportation . partial - day recalls will be no more likely to result in shut - in production than interruptible transactions that are subject to being bumped under the current standards , "" the nopr noted .",0,1,0.001006061506911407,False Positive
+",0,1,0.0010039728197532864,False Positive
 "Subject: cleburne outage
 gentlemen ,
 i wanted to clarify the length of the outage that started today at the
@@ -824,7 +838,7 @@ cleburne site .
 the earliest the plant will be on - line is wednesday morning . if anything is
 found beyond a cracked transition piece or clogged fuel nozzle then it may
 extend the outage a few days . as soon as i hear something i will let you know .
-michael",0,1,0.0010345259774021528,False Positive
+michael",0,1,0.0010484522206566384,False Positive
 "Subject: football & more
 i ' m glad you got $ 20 from my favorite person .
 ?
@@ -837,34 +851,34 @@ i believe texas should re - establish itself as a republic and i can go to the
 barricades . now that gets my juices going .
 ?
 later ,
-ken",0,1,0.001037505841863724,False Positive
+ken",0,1,0.001037445801559654,False Positive
 "Subject: long term deals not going to aep
 long term deals that are not going to aep should be booked as ena - im
 lonestar .
-dave",0,1,0.001066796752462695,False Positive
+dave",0,1,0.001059582106985646,False Positive
 "Subject: password reset
 this is a generated email - do not reply !
 if you need further assistance , contact the isc help desk at : 713 - 345 - 4727
-the password for your account : po 0507544 has been reset to : 14031399",0,1,0.001063024601916486,False Positive
+the password for your account : po 0507544 has been reset to : 14031399",0,1,0.0010436791505065357,False Positive
 "Subject: tufco
 my est . for tufco is the same as last may ' s ( 1999 ) nom .
 iferc 40000 / d total of 1 , 240 , 000
 wb 30000 / d total of 930 , 000
-ami",0,1,0.0010091278678845473,False Positive
+ami",0,1,0.0010163582501912336,False Positive
 "Subject: on - call notes
 please find attached the on - call notes for the weekend of 3 / 10 & 11 / 01 .
-bob",0,1,0.0010295695722162502,False Positive
+bob",0,1,0.0010361047733921911,False Positive
 "Subject: meoh plant status
 the methanol plant is still on target to begin making spec methanol on
 friday , july 28 . the plant may start taking some natural gas late tuesday ,
 july 25 .
 because of dredging at the oxy dock , no barges can be loaded july 31 to
-august 3 .",0,1,0.001006558182570177,False Positive
+august 3 .",0,1,0.001011454954543821,False Positive
 "Subject: mtbe upsets
 the mtbe plant has determined full production can be attained sooner than
 their first forecast . production at the mtbe plant remains approximately 9
 mbd today and tomorrow , then 11 mbd on thursday , march 30 , and 13 . 7 mbd
-starting friday , march 31 .",0,1,0.0010127242976702385,False Positive
+starting friday , march 31 .",0,1,0.001016620603173641,False Positive
 "Subject: january brown bag sessions
 if you would like to sharpen your performance evaluation writting skills or
 your interviewing skills please read below .
@@ -906,9 +920,13 @@ participants will be given handouts including :
 course outline
 the focused feedback guide
 course length : 90 minutes
-intended audience : supervisor ' s of all levels",0,1,0.0010145515343204451,False Positive
+intended audience : supervisor ' s of all levels",0,1,0.0010112666805588558,False Positive
+"Subject: meter 1517 - 12 / 99
+meter 1517 , sweeny phillips , has been reallocated for 12 / 99 . if you have any
+questions , let me know .
+- aimee",0,1,0.0010040912698662142,False Positive
 "Subject: re : tuesday , december 26 th
-mary since i will be on call i ' ll be in here .",0,1,0.0010452759996296987,False Positive
+mary since i will be on call i ' ll be in here .",0,1,0.0010592133013912319,False Positive
 "Subject: gulf plains into tennessee for november
 i received a call from the plant , apparently , they shorted us 60 dth on the
 3 rd of november . however , someone opened the valve on the 20 th and they
@@ -920,7 +938,7 @@ don ' t know what the market situation is like on tgpl , would we be creating an
 imbalance on a contract , is there a market to allocate to , are there any
 potential penalties ? i would like to resolve this today , if at all possible .
 please advise .
-mary",0,1,0.0010058983536234175,False Positive
+mary",0,1,0.0010053027197223625,False Positive
 "Subject: revision : eastrans nomination change effective 3 / 29 / 01
 deliveries and redeliveries will still be 0 effective 3 / 29 / 01 at 9 : 00 am .
 however , the 7300 mmbtu / dy fuels cotton valley gas will not be priced per
@@ -952,10 +970,10 @@ please decrease deliveries to eastrans to 0 mmbtu / dy effective 3 / 29 / 01 and
 maintain at 0 until further notified .
 the redeliveries will be 0 as well .
 fuels cotton valley gas will be valued per paragraph 3 of the contract
-price ( per mmbtu ) section in the transaction agreement .",0,1,0.0010261220031481083,False Positive
+price ( per mmbtu ) section in the transaction agreement .",0,1,0.0010193890493917954,False Positive
 "Subject: out of the office
 i will be on vacation from thursday 5 / 10 thru wednesday 5 / 16 . tom acton will be my back up 713 - 571 - 3256 , pager 713 - 707 - 3527 and bob cotten will do the nngb ( black marlin ) and help tom . bob ' s nmbers are 713 - 571 - 3255 , pager 1 - 888 - 813 - 0047 . i will have a pi ? a colada in your name .
-carlos",0,1,0.00103091319652007,False Positive
+carlos",0,1,0.001016744649519706,False Positive
 "Subject: fw : fw : fw : dance off to select the next president
 ? - - - - - original message - - - - -
 from : ? cindy rogers [ mailto : cindyrl 119 @ hotmail . com ]
@@ -965,15 +983,15 @@ cc : ? ? ? ? patti 2 hot @ yahoo . com ; vlotspeich @ texoma . net ;
 witchproctor 2000 @ yahoo . com
 subject : ? ? ? ? ? ? ? fwd : fw : fw : dance off to select the next president
 >
-- danceoff . exe",0,1,0.0010119775103835855,False Positive
+- danceoff . exe",0,1,0.0010107157538298908,False Positive
 "Subject: mtbe upsets
 mtbe plant is up and running . production for tuesday , may 23 , was in excess
-of 12 mb .",0,1,0.0010517361225573358,False Positive
+of 12 mb .",0,1,0.0010636945716363312,False Positive
 "Subject: updated list
 valero deals have now been added .
 please make sure that this list is forward to anyone in your groups that
 might need it .
-julie",0,1,0.0010371330213877444,False Positive
+julie",0,1,0.0010213571244483042,False Positive
 "Subject: your amazon . com order ( # 104 - 9670681 - 0325567 )
 hello from amazon . com .
 we are sorry to report that we are having difficulty
@@ -1000,21 +1018,21 @@ sincerely ,
 customer service department
 amazon . com
 http : / / www . amazon . com
-earth ' s biggest selection",0,1,0.0010086195667133762,False Positive
+earth ' s biggest selection",0,1,0.0010127104945144693,False Positive
 "Subject: first delivery - cody
 see attached letter
-eb",0,1,0.001064524629501292,False Positive
+eb",0,1,0.0010448676231579262,False Positive
 "Subject: mike clinchard resume
 in case you have an opening . . . .
-- resume . doc",0,1,0.001105209112853545,False Positive
+- resume . doc",0,1,0.0011001368047906474,False Positive
 "Subject: neon lesson # 5
 please respond to here is the lesson for lesson 5 . have fun !
-- experiencing god week 5 . doc",0,1,0.0010182157369499935,False Positive
+- experiencing god week 5 . doc",0,1,0.00101479004611921,False Positive
 "Subject: here ' s the list , dirty , but it ' s a list , let me know who you ' re looking at and i can dig further
-",0,1,0.0011082393650352874,False Positive
+",0,1,0.0011106785961301057,False Positive
 "Subject: ces - duke en field services
 the purchase and sale is at felmont # 1 ( point sale ) . we will be terminating
-the agreement . feb should be the last month .",0,1,0.0010286826156347246,False Positive
+the agreement . feb should be the last month .",0,1,0.0010441206720673737,False Positive
 "Subject: new pictures
 for faster viewing , i would suggest you go to the first page of pictures and
 click the "" small slideshow "" link . this will bring down all the photos at
@@ -1029,7 +1047,7 @@ note .
 tonya / daren : you will probably be more interested in the pictures on pages 5
 and 6 , which is also the fifth and sixth rows of the index page .
 thanks ,
-- ram .",0,1,0.0010161772606269905,False Positive
+- ram .",0,1,0.001009611657594605,False Positive
 "Subject: urgent
 ed has requested that we compile a list this morning of all parties / points
 which we owe gas to , in the event that we need to find a home for excess
@@ -1038,7 +1056,7 @@ aware of . i am compiling an interim list based upon the rtu variance report
 for march , however , i don ' t want to rely on this list as you may be engaged
 in balancing at meters with variances .
 thank you ,
-mary",0,1,0.001004389183715249,False Positive
+mary",0,1,0.00100396730884759,False Positive
 "Subject: desk to desk deals
 during mid - july , sitara will change the logic on desk to desk deals to post
 the volume associated with the sales ( seller ) side to the sitara deal .
@@ -1049,20 +1067,20 @@ please be aware that this change will effect desk to desk deals only . the
 logic on transport usage deals will remain as it is currently - delivery
 point ( to ) - posts to the sitara deal .
 if you have any questions , please give me a call at x 39222 .
-chao !",0,1,0.0010044778850051372,False Positive
+chao !",0,1,0.0010053612344508149,False Positive
 "Subject: february issues
 i am currently going over the february setup in unify to locate current and
 potential problems for the month . if you like , i would be glad to get
 together tomorrow afternoon and review the problems just to give you an
 overview on what i see .
 let me know .
-ken",0,1,0.0010056953164871837,False Positive
+ken",0,1,0.0010089647431902025,False Positive
 "Subject: hplc / ocean energy inc . 09 / 99 purchase
 daren , there are five hplc purchase deals for 09 / 99 from ocean energy inc .
 they were craig falbaum ' s deals . a person who is no longer in my group
 suspended payment for these deals . gary suggested that i contact you and see
 if you have any insight as to why the deals might have been suspended , or
-know anything that might help . thanks .",0,1,0.0010096152978975525,False Positive
+know anything that might help . thanks .",0,1,0.0010163562345010613,False Positive
 "Subject: monthly manangement lunch
 please clear your calendars for lunch on wednesday , march 8 th from 11 : 30 -
 1 : 00 . this will be a lunch for the management team only ( meaning no brenda ) .
@@ -1070,19 +1088,30 @@ i will take suggestions until monday and then i will be making reservations .
 if you have any questions , please call !
 thank you !
 yvette
-x 3 . 5953",0,1,0.0010112299859318333,False Positive
+x 3 . 5953",0,1,0.0010114596232543348,False Positive
 "Subject: check these deals :
 70422
-92754",0,1,0.001156444905419228,False Positive
+92754",0,1,0.001103085425683034,False Positive
+"Subject: cornshucker 3 / 6 & 3 / 7
+fyi - - - i entered the changes for tenaska iv & brazos for the 6 th & 7 th . . . . i
+made the changes to the brazos ticket # 458433 , and the tenaska iv ticket
+# 384258 , let me know if you have any questions or if a wrong ticket was
+changed . spreadsheet is updated .
+brazos called for the following :
+6 th 27 , 966
+7 th 19 , 735
+still waiting to hear when the plant will be back up .
+thanks ,
+mark",0,1,0.0010046758878823493,False Positive
 "Subject: neon discussion november 8
 here are some ideas for this coming week .
 ?
 bobby
-- neon roaring 4 . doc",0,1,0.0010337213278741148,False Positive
+- neon roaring 4 . doc",0,1,0.0010366162099267734,False Positive
 "Subject: re : boat
 i believe the boat is 18 to 19 ft long and i do have a boat cover . i will bring the boat information with me tomorrow for anymore questions . i recently took it to the shop to get it ready for this season and the salesman said it looked brand new . it has a brand new battery and everything runs perfectly . call me if you want to take a look at it .
 briant
-66459",0,1,0.001011123719644754,False Positive
+66459",0,1,0.0010103665689770347,False Positive
 "Subject: revised : eastrans nomination effective 1 / 25 / 01
 disregard the nomination information below . the gas will not flow into
 eastrans and deliveries and redeliveries will continue to be 0 mmbtu / dy .
@@ -1121,32 +1150,21 @@ please increase deliveries into eastrans to 25 , 000 mmbtu / dy effective
 9 / 25 / 01 and continue until further notified .
 the redeliveries will be :
 7300 mmbtu from fuels cotton valley
-17 , 700 mmbtu to pg & e",0,1,0.0010591257959996318,False Positive
-"Subject: vacation
-i will be out on vacation the week of july 3 , back at the office on july
-10 th . my main contact will be stella morris at ext . 3319 . my desk will be
-split as follows :
-stella - nng - blackmarlin ( onshore ) , black marlin ( offshore ) , amoco third
-party , centana ( on & off system , storage ) , eastrans
-aimee - carthage , tufco updates , bridge back
-mark mccoy - katy lonestar ( on & offsystem )
-tom acton - send nominations mops to pops
-please pass this to other members of your groups , thanks .
-carlos",0,1,0.001002936206686167,False Positive
+17 , 700 mmbtu to pg & e",0,1,0.0010349303869689062,False Positive
 "Subject: entex - may
-i would assume 40000 for midcon .",0,1,0.0014257595903274113,False Positive
+i would assume 40000 for midcon .",0,1,0.0014578292343586088,False Positive
 "Subject: new computer
 hey ! just checking out the new machine . i sent cole ' s birthday present
-today . hope he gets it on time . let me know if you get this message please .",0,1,0.001004037529904288,False Positive
+today . hope he gets it on time . let me know if you get this message please .",0,1,0.0010133713649814395,False Positive
 "Subject: alternate contact for eastrans nominations for 8 / 8 / 00
 in my absence , bruce mcmills will be the commercial defs contact for tuesday ,
-august 8 th .",0,1,0.001034069141705618,False Positive
+august 8 th .",0,1,0.0010360909368782314,False Positive
 "Subject: 
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: re : married porstitute pohto galleries
 groovy : )
 bazzo deravin
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: dermatology , neurology , pathology ,
 the new 2005 united states
 healthcare database .
@@ -1182,7 +1200,7 @@ postal :
 tel :
 fax :
 email :
-",1,0,0.0009992829335223174,False Negative
+",1,0,0.000999319417835908,False Negative
 "Subject: investment news : hot stock this week ! ""
 the u . s . oil report ( hot stock news flash - this one is moving )
 a premium market related service
@@ -1219,25 +1237,13 @@ tradestar corp . ( tirr ) is getting ready to become a major presence in oil gas
 this is one of our top recommendations this year . we are giving tirr our seal of approval .
 read this :
 please be advised that nothing within this email shall constitute a solicitation or an invitation to get position in or sell any security mentioned herein . this newsletter is neither a registered investment advisor nor affiliated with any broker or dealer . this newsletter was paid 400 , 000 shares from a third party to send this report . all statements made are our express opinion only and should be treated as such . we may own , take position and sell any securities mentioned at any time . this report includes forward - looking statements within the meaning of the private securities litigation reform act of 1995 . these statements may include terms as expect , believe , may , will , move , undervalued and intend or similar terms .
-",1,0,0.0009946623247817422,False Negative
+",1,0,0.0009938854482689828,False Negative
 "Subject: penls enlarg 3 ment pllls
 enlarge your penls nowcllck h 3 re !
-no more",1,0,0.0009622286128353351,False Negative
+no more",1,0,0.0009249436027336443,False Negative
 "Subject: re : re : re : your document
 please read the attached file .
-",1,0,0.0009963641791013854,False Negative
-"Subject: long time
-customer id : 615
-order # 13
-we would like to thank you for your recent purchase on our website
-and thought that you may also be interested in our new lub . ricant
-that has been added to our line of herb - al supp - lements .
-it is gua ran - teed to help spice up your night life in the bed ` room .
-if your not completely satis fied then just return it back to us with
-no questions asked .
-you can view our new line at http : / / nikko . getchatimenow . com / x / poppi
-thank you once again
-",1,0,0.001002138979580578,False Negative
+",1,0,0.0009636369053731978,False Negative
 "Subject: portable stereo speakers for ipod digital player @ $ 39 . 00
 portable
 stereo speakers for ipod digital player
@@ -1315,9 +1321,9 @@ above
 - -
 to unsubscribe from : computron 4 , just follow this link :
 click the link , or copy and paste the address into your browser .
-please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009980653520821536,False Negative
+please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009988554868495445,False Negative
 "Subject: gets a thick load of cum inside of her tight teenage pussy .
-bitnet",1,0,0.0009622286128353351,False Negative
+bitnet",1,0,0.0009249436027336443,False Negative
 "Subject: have the ability to attract members of the opposite sex
 improve your sex appeal 1 , 000 %
 i ' ve experimented with a myriad of pheromones products and along the way
@@ -1337,9 +1343,9 @@ must have deepened his slumber , for when he awoke the sun was shining almost
 directly over him , showing that the day was well advanced
 he stood up , rubbed the sleep from his eyes and decided he would like a
 drink of water
-",1,0,0.0010013007841711253,False Negative
+",1,0,0.0010024200419382235,False Negative
 "Subject: get prescri ) ption d ) rugs to your door !
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: xterasys 802 . 11 g 54 mbps wireless pc card $ 29 . 00
 wireless 802 . 11 g pc card
 $ 29 . 00 the xterasys xn - 2422 g
@@ -1417,7 +1423,40 @@ products may not be exactly as shown
 above
 - -
 to unsubscribe from : computron 6 , just follow this link :
-click the link , or copy and paste the address into your browser .",1,0,0.000998854207597318,False Negative
+click the link , or copy and paste the address into your browser .",1,0,0.0009994927106069865,False Negative
+"Subject: sample movies
+unlimited access to the largest
+movie collection anywhere !
+lady
+fellatio in the dog house - scene 8
+download , sign up now for free
+blonde girl in a winter hat giving head to a guy on top of a a frame house .
+she sucks his cock and plays with her tits and pussy before getting a steaming
+load in her mouth .
+length : ( 00 : 05 : 56 ) - niche : hardcore
+highest
+quality , lowest file sizes ,
+for fastest downloads !
+anal
+teen tryouts 2 - scene 3
+download , sign up now for free
+hot little blonde with small tits gets fucked in the ass .
+length : ( 00 : 19 : 42 ) - niche : anal
+unlimited
+search screenshot viewing
+6
+black sticks 1 white trick - scene 1
+download , sign up now for free
+hot brunette is taken by six black guys and gang banged .
+length : ( 00 : 37 : 58 ) - niche : interracial
+join
+now for free access !
+you are receiving this email because someone has shown interest
+in your profile before , or you have browsed our profiles in the past or please
+let us know if you are not interested in receiving our high quality letters
+in the future and you will never get our letter again . thank you
+rmove yourself here
+",1,0,0.001001040342105808,False Negative
 "Subject: re : your account # ln 869
 hi ,
 i sent you an email last week and just wanted to confirm everything .
@@ -1430,13 +1469,7 @@ thank you
 http : / / www . buttonbasket . com / mn / num 20
 best regards ,
 ceo : kimberly wheeler lst mor tga ge group
-",1,0,0.0009968967393322317,False Negative
-"Subject: submisssive women web - meeting - place
-here you go here is a massive , city by city guide of women that want to meeeeeeeeeeet dudes that want nothing more than to hoooooooooook up for discreeeeet action , for nauauauaghty times , for a - nal inter course , etc . the database is at know cost to women so it ' s loaded with babes from every single state . you will always find what you are looking for in here , come one come all .
-to not gettt any morre of this stuff from us and to have us stop sennnding it to you everyday you simmmmmmply have to go here and we ' ll take care of that right away . we apologize 4 the inconvien and we will take care of it .
-http : / / www . loangrownetwork . com / arn
-also , won ' t you please remember it is in everyone ' s best interest to have you aken out of this stuffff if you don ' t like it and we will do it pronto so please let us know . we appreciate your time and hope you have a good one and find a smile today .
-",1,0,0.0010018528865612616,False Negative
+",1,0,0.00099794929892251,False Negative
 "Subject: analyst ' s pick ( 23805 )
 investor financial times report
 specializing in undervalued small cap stocks for immediate breakout
@@ -1495,9 +1528,9 @@ subject line to wolff @ emailacc . com
 electronic dissemination provided by : e - broadcast group 6 eftute ave .
 kingston 10 jamaica wi
 58784 b 4022 ee 2350759 al 2073256 aebdb 301 c
-",1,0,0.0010002025017258232,False Negative
+",1,0,0.0009997601387916667,False Negative
 "Subject: penls enlarg 3 ment pllls
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: [ adv ] merry christmas - joyeux noel - frohe weihnachten - feliz navidad
 english
 franais
@@ -1586,7 +1619,7 @@ fichier de routage .
 pure search s 52
 artprice . com - domaine de la source bp 69 - f - 69270 st romain au mont d ' or - rcs
 : 411 309 198
-",1,0,0.0009976294509296566,False Negative
+",1,0,0.0009978561436558215,False Negative
 "Subject: @ $ 89 . 00 w / speakers . . . . hp 17 "" crt flat monitor
 hp vx 74 c 17 "" crt flat monitor w / speakers
 part no .
@@ -1663,7 +1696,7 @@ above
 - -
 to unsubscribe from : computron 3 , just follow this link :
 click the link , or copy and paste the address into your browser .
-please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009982115821799654,False Negative
+please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009996112224436367,False Negative
 "Subject: from brand names to generics , from overexpenditures to great sav . vings .
 tensions , pressure and afflictions . there are a lot of challenges in our
 lives . hovv to balance them ?
@@ -1690,7 +1723,7 @@ id had bought an annuity for himself with his money ,
 ` what is it they write you ? ' he repeated . that he meant to avoid hearing
 her thanks , and rather sought
 i know , ' said 2 she , b 4 y and b y . ' what did he do for you
-",1,0,0.0009976264962385465,False Negative
+",1,0,0.0009994347903807882,False Negative
 "Subject: soaring microcap moving quickly
 stock watch alert this morning are wysak petroieum ( wysk ) , key
 energy services , inc . ( pink sheets : kegs ) , medify soiutions ( mfys ) ,
@@ -1745,7 +1778,7 @@ used as investment advice .
 if you wish to stop future mailings , or if you fee | you have been
 wrongfuily placed in our membership , please go here or send a biank
 e mai | with no thanks in the subject to stockl 004 @ yahoo . com
-",1,0,0.0009957204258353798,False Negative
+",1,0,0.0009968921669554702,False Negative
 "Subject: d - link airplus g 802 . 11 g wireless router $ 87 . 00
 $ 87 . 00
 high speed
@@ -1851,12 +1884,12 @@ above
 - -
 to unsubscribe from : computron 3 , just follow this link :
 click the link , or copy and paste the address into your browser .
-please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009993887607361324,False Negative
+please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009997908124273521,False Negative
 "Subject: re : no more injections
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: re : clement
 hassan
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: viewsonic airpanel vl 50 15 - inch smart display and dock @ $ 575 . 00 only ! !
 airpanel
 vl 50
@@ -1953,7 +1986,7 @@ above
 - -
 to unsubscribe from : computron 3 , just follow this link :
 click the link , or copy and paste the address into your browser .
-please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009985990693827892,False Negative
+please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009993586424089215,False Negative
 "Subject: growing company ignored by wall street
 breaking news at the ciose friday
 itec environmenta | group , inc . ( otcbb : i - t - e - c )
@@ -2115,7 +2148,7 @@ if you wish to stop future maiiings , or if you fee | you have been
 wrongfuliy piaced in our membership , piease go here or send a blank
 e mai | with no thanks in the subject to
 ( - stock 39 @ yahoo . com - )
-",1,0,0.0010001941588573576,False Negative
+",1,0,0.0010001352277108086,False Negative
 "Subject: breaking news : abdv goes energy epgqlahhkqqltj waanmdp
 daily traders report
 nxfahxdbreaking newsvhxcwev
@@ -2308,7 +2341,7 @@ additional compensation for this publication . since abdv is a reporting
 public company , information on abdv , including its officers , directors and
 general financial results can be found on the sec website ,
 www . sec . gov .
-",1,0,0.000996534894823098,False Negative
+",1,0,0.0009966576244980607,False Negative
 "Subject: from mrs . juliana
 dear friend ,
 please don ' t be surprised to receive this letter from me since we do
@@ -2373,7 +2406,7 @@ mrs . juliana mbuluku
 for : ( the family ) .
 please you can read about problems in zimbabwe from
 the links below :
-",1,0,0.0010017668866213127,False Negative
+",1,0,0.0010027993993102866,False Negative
 "Subject: are you a successful penny stock fan ? , aha
 coleman terrell ,
 techlite , inc ( otcbb - thlt )
@@ -2467,7 +2500,7 @@ the publisher of this newsletter believes this information to be
 reliable but can make no assurance as to its accuracy or completeness . use of
 the material within this publication constitutes your acceptance of
 these terms .
-apparel heavyweight lilian seduce hillel tyndall cysteine mullion atlantica quite carrot deja resuming rotogravure disdain jest ineducable javelin annale so invaluable colloquy buzzer attenuate attic coruscate disturb .",1,0,0.001001607262761634,False Negative
+apparel heavyweight lilian seduce hillel tyndall cysteine mullion atlantica quite carrot deja resuming rotogravure disdain jest ineducable javelin annale so invaluable colloquy buzzer attenuate attic coruscate disturb .",1,0,0.0010013923506883217,False Negative
 "Subject: network cable tester and free ! rj - 45 crimping and strip tool kit @ $ 22 . 00
 network cable tester
 and free ! rj - 45 crimping and strip tool
@@ -2546,7 +2579,7 @@ products may not be exactly as shown
 above
 - -
 to unsubscribe from : computron 7 , just follow this link :
-click the link , or copy and paste the address into your browser .",1,0,0.00100090886079113,False Negative
+click the link , or copy and paste the address into your browser .",1,0,0.0010022980494092434,False Negative
 "Subject: averatec 3150 h athl 600 + / 256 ram / combo / 12 . 1 "" xga / xph @ $ 910 . 00 only ! !
 t o d a
 y ' s
@@ -2647,7 +2680,7 @@ above
 - -
 to unsubscribe from : computron 3 , just follow this link :
 click the link , or copy and paste the address into your browser .
-please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009985417873766003,False Negative
+please give it atleast 48 hours for unsubscription to be effective .",1,0,0.000998803904798443,False Negative
 "Subject: copy from cassette tape to mp 3 and vice versa @ $ 137 . 00
 plusdeck 2 tape - rw pc cassette deck - tape to
 mp 3
@@ -2728,7 +2761,7 @@ exactly as shown
 above
 - -
 to unsubscribe from : computron 6 , just follow this link :
-click the link , or copy and paste the address into your browser .",1,0,0.0009982194674452737,False Negative
+click the link , or copy and paste the address into your browser .",1,0,0.000999459450795064,False Negative
 "Subject: $ 37258
 hi ,
 i sent you an email a few days ago , because you now qualify for a new mortgage .
@@ -2742,7 +2775,7 @@ no more : http : / / www . lending - now . com / rl / index . html
 found standards it different important existing produces ] the
 description area tailoring because international cpp no that
 submitted able takes preferences preferences ] the produces absence identifiers
-",1,0,0.0009990470113877487,False Negative
+",1,0,0.000999911546988118,False Negative
 "Subject: market watch undervalued report f
 april 2004 top pick of the month
 life energy and technology holdings , inc .
@@ -2859,9 +2892,9 @@ hfu ke hg y dc lfl fuz
 wwolytile
 zoxqmrvko kgst glkdss
 tqagfgexdcnv eka
-",1,0,0.0009988347283555546,False Negative
+",1,0,0.0009986218792529748,False Negative
 "Subject: 
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: real - time alert for hot stock feature
 us oi | and gas report
 oil climbs , gains soar
@@ -2928,9 +2961,9 @@ those statements .
 if you wish to stop future maiiings , or if you feel you have been
 wrongfully placed in our membership , piease go here or send a biank
 e mail with no thanks in the subject to ( - stoxo 034 @ yahoo . com - )
-",1,0,0.0009954235649771135,False Negative
+",1,0,0.0009956252884382132,False Negative
 "Subject: you can be smart !
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: digital cameras , pda ' s and mp 3 player ' s , 2 . 2 gb drive @ $ 78 . 00
 2 . 2 gb cf + type ii
 drive
@@ -3006,9 +3039,9 @@ above
 - -
 to unsubscribe from : computron 4 , just follow this link :
 click the link , or copy and paste the address into your browser .
-please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009987538219465495,False Negative
+please give it atleast 48 hours for unsubscription to be effective .",1,0,0.0009996079522403291,False Negative
 "Subject: you can be smart !
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: pw 9 o 3 inx
 sat , 19 jun 2004 01 : 18 : 48 + 0200
 hello again , raquel wolf here with good news
@@ -3024,16 +3057,16 @@ your quo . te at ( ( n . . o - c . o . s . t ) ) and ( ( n . . o - o . b . l . i
 this way for a great opportunity
 thank you for your time
 sincere best wishesraquel wolf
- uxlhddxkwopyrpadfz 1 serviceberry pass p spokesman pale vendible oratoric pitt enmity ethan dent apothecary dodecahedral bipartite rueful barter scout malaprop quixotic conch lucretia sculptural splenetic dim tempera bathos didactic stalwart implore formica",1,0,0.0009999371920381655,False Negative
+ uxlhddxkwopyrpadfz 1 serviceberry pass p spokesman pale vendible oratoric pitt enmity ethan dent apothecary dodecahedral bipartite rueful barter scout malaprop quixotic conch lucretia sculptural splenetic dim tempera bathos didactic stalwart implore formica",1,0,0.0010006593440060033,False Negative
 "Subject: re : milf neighbors lookin for . . . fbs
 s - e - x - y local singles inside !
 petticoat is isocline conduce but strove not prosecute litigate .
 here decimal holstein may platen and fiske die ,
 defrock not ash .
 . n . o . t . h . a . n . k . z . z . z
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: 
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative
 "Subject: arturo hydrate eyesight humorous department
 supervixagra -
 ciaclis
@@ -3077,6 +3110,6 @@ baptismal conquer lawn playful impervious absorb gangling brassy adage proust co
 coworker blutwurst divisor cryptanalyze elder rodgers firewall irresolute grease hellebore ditto payoff
 conant g ' s lion jazz opt frantic leitmotiv cheat schematic claimant covalent grownup condemnatory isotopic liquid proportion female j follicular cultivable eighth monash appreciate hinge live orono counterman dunce sandpaper illumine neckline hop duplicity delude flaw paradoxic catkin
 arab case clove ashman fletch fluent count author gale gospel law bedspread dewar gurkha sacrosanct calvinist concurring agnew dido nautical bravura report jane generosity landowner persuade evelyn increment marginal insistent lance
-",1,0,0.000985239629433281,False Negative
+",1,0,0.0009909545769743746,False Negative
 "Subject: complimentary to you - ibm laptop !
-",1,0,0.0009622286128353351,False Negative
+",1,0,0.0009249436027336443,False Negative

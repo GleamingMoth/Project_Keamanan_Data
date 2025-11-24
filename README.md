@@ -39,7 +39,7 @@ Models are evaluated using:
 - F1-Score
 - ROC AUC
 - Confusion Matrix
-- Feature Importance (for tree-based models)
+- Feature Importance (for Tree-based models, Linear models, and Isolation Forest)
 - False Positive & False Negative Analysis
 
 ## Project Structure

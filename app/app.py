@@ -112,13 +112,21 @@ with tabs[1]:
             else:
                 st.write("Plot not available.")
                 
-        with col2:
-            st.write("#### ROC Curve")
-            roc_path = f'data/plots/roc_curve_{selected_model.replace(" ", "_")}.png'
-            if os.path.exists(roc_path):
-                st.image(roc_path)
-            else:
-                st.write("Plot not available.")
+            with col2:
+                st.write("#### ROC Curve")
+                roc_path = f'data/plots/roc_curve_{selected_model.replace(" ", "_")}.png'
+                if os.path.exists(roc_path):
+                    st.image(roc_path)
+                else:
+                    st.write("Plot not available.")
+
+        st.markdown("---")
+        st.subheader("Feature Importance")
+        feat_imp_path = f'data/plots/feature_importance_{selected_model.replace(" ", "_")}.png'
+        if os.path.exists(feat_imp_path):
+            st.image(feat_imp_path, caption=f"Top 20 Important Features for {selected_model}")
+        else:
+            st.info(f"Feature importance plot not available for {selected_model}.")
 
         st.markdown("---")
         st.subheader("Error Analysis (False Positives & Negatives)")

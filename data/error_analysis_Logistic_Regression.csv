@@ -1,6 +1,6 @@
 Text,Actual,Predicted,Probability,Error_Type
 "Subject: important video announcement
-i have a very important video announcement about the future of our company . please go to to access the video . thank you .",0,1,0.6038677184653276,False Positive
+i have a very important video announcement about the future of our company . please go to to access the video . thank you .",0,1,0.6038677184653231,False Positive
 "Subject: fw : men & cars
 because i ' m a man , when i lock my keys in the car i will
 fiddle with a wire clothes hanger and ignore your
@@ -54,17 +54,17 @@ can we just go now ?
 because i ' m a man , and this is , after all , the 2000 ' s , i will
 share equally in the housework . you just do the laundry ,
 the cooking , the gardening , the cleaning , and the dishes . i ' ll
-do the rest .",0,1,0.6229426132105885,False Positive
+do the rest .",0,1,0.6229426132105825,False Positive
 "Subject: new email
 yo bro . this is my new email address . save it .
 aggie _ chico 2 @ hotmail . com .
 love you , lacy
-get your private , free email at http : / / www . hotmail . com",0,1,0.6177488800291152,False Positive
+get your private , free email at http : / / www . hotmail . com",0,1,0.6177488800291349,False Positive
 "Subject: christmas tree farm pictures
-",0,1,0.5012350128309692,False Positive
+",0,1,0.5012350128309379,False Positive
 "Subject: hunter ' s birthday party pictures
 if the above link doesn ' t work , try going to http : / / www . abacustech . net / pic
-- ram .",0,1,0.5977844907514498,False Positive
+- ram .",0,1,0.5977844907514432,False Positive
 "Subject: $ 5 for cd ' s dvd ' s expires soon at half . com
 * * free $ 5 coupon at half . com * *
 o half . com is a new site for cds , books , movies , & video games
@@ -94,14 +94,14 @@ partners . if you wish to be excluded from future offers , please reply
 to this message and type "" unsubscribe "" in the subject line .
 all questions can be sent to :
 if you wish to know more about our privacy policies , please go to
-",0,1,0.6598351264730162,False Positive
+",0,1,0.6598351264730136,False Positive
 "Subject: income tax
 hey ! tonya said to staple copy b of the w - 2 to the tax return - - but on the
 one from camp it says copy c for payer or state copy , copy b for recipient
 ( keep for your records ) . so which one do i send ? the one from the school
 says send b but i ' m confused on the other one .
 what did the doctor say about tonya & the due date ? love , ma
-get your private , free email at http : / / www . hotmail . com",0,1,0.5353795457755531,False Positive
+get your private , free email at http : / / www . hotmail . com",0,1,0.535379545775562,False Positive
 "Subject: investment news : hot stock this week ! ""
 the u . s . oil report ( hot stock news flash - this one is moving )
 a premium market related service
@@ -138,10 +138,10 @@ tradestar corp . ( tirr ) is getting ready to become a major presence in oil gas
 this is one of our top recommendations this year . we are giving tirr our seal of approval .
 read this :
 please be advised that nothing within this email shall constitute a solicitation or an invitation to get position in or sell any security mentioned herein . this newsletter is neither a registered investment advisor nor affiliated with any broker or dealer . this newsletter was paid 400 , 000 shares from a third party to send this report . all statements made are our express opinion only and should be treated as such . we may own , take position and sell any securities mentioned at any time . this report includes forward - looking statements within the meaning of the private securities litigation reform act of 1995 . these statements may include terms as expect , believe , may , will , move , undervalued and intend or similar terms .
-",1,0,0.49958407438763547,False Negative
+",1,0,0.4995840743876559,False Negative
 "Subject: re : re : re : your document
 please read the attached file .
-",1,0,0.16566218987965112,False Negative
+",1,0,0.16566218987962789,False Negative
 "Subject: long time
 customer id : 615
 order # 13
@@ -153,11 +153,11 @@ if your not completely satis fied then just return it back to us with
 no questions asked .
 you can view our new line at http : / / nikko . getchatimenow . com / x / poppi
 thank you once again
-",1,0,0.3984210626959112,False Negative
+",1,0,0.3984210626958978,False Negative
 "Subject: re : i know what you need
 goodbye
 dramaturgy concavekrakatoa antares waffleheartbreak
 graph arroyobrook appear mingleexchange
 octagonal broughtcustodian thou inimicalamide
 discern basketbuzzard emcee jeremyanalogous
-lever almostpickering",1,0,0.4930767551638863,False Negative
+lever almostpickering",1,0,0.49307675516386473,False Negative
